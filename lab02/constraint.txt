@@ -1,0 +1,7 @@
+There are three different types of match constraints: MATCH FULL, MATCH SIMPLE, and MATCH PARTIAL. As we learned in class, MATCH FULL ensures that both values exist or both are null. MATCH SIMPLE allows any foreign key columns to be nell, and if a foreign key column is null then it does not need to match a the primary key referenced. However, if the column is not null, then it must match the primary key to be a vaild foreign key. Finally, MATCH PARTIAL means a foreign key is vaild is there is at least one null foreign key column and the remaining not null columns match the reference primary key. 
+
+References:
+https://www.postgresql.org/docs/9.5/static/sql-createtable.html
+http://wiki.burnsoft.net/KB58.ashx
+
+
