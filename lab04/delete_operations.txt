@@ -1,0 +1,19 @@
+I created a table for employees that has the following structure:
+
+Row key		personal data				professional data
+empID		name		city			desgnation	salary
+1		Victoria	Denver			Manager		100000
+2		Emily		Greenwood Village	Marketing VP	100000
+
+
+To delete an individual column value in a row I performed the following command:
+
+	delete 'emp', '1', 'professional data:designation'
+
+This deleted the designation cell under the professional data column family for row with key 1 in the emp table.  
+
+To delete an entire row I performed the following command:
+
+	deleteall 'emp', '2'
+
+This deleted the row with row key 2 in the emp table
