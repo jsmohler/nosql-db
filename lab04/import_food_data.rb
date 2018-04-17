@@ -1,5 +1,3 @@
-require 'time'
-
 import 'org.apache.hadoop.hbase.client.HTable'
 import 'org.apache.hadoop.hbase.client.Put'
 import 'javax.xml.stream.XMLStreamConstants'
@@ -38,27 +36,27 @@ while reader.has_next
     when /Food_Code|Display_Name|Portion_Default|Portion_Amount|Portion_Display_Name|Factor|Increment|Multiplier|Grains|Whole_Grains|Vegetables|Orange_Vegetables|Drkgreen_Vegetables|Starchy_vegetables|Other_Vegetables|Fruits|Milk|Meats|Soy|Drybeans_Peas|Oils|Solid_Fats|Added_Sugars|Alcohol|Calories|Saturated_Fats/
       document[reader.local_name] = buffer.join
     when 'Food_Display_Row'
-      key = document['food_code'].to_i
+      key = document['Food_Code'].to_java_bytes
 
       p = Put.new(key)
-      p.add(*jbytes("facts", "name", document['display_name']))
-      p.add(*jbytes("facts", "portion default", document['portion_default']))
-      p.add(*jbytes("facts", "portion amount", document['portion_amount']))
-      p.add(*jbytes("facts", "portion display name", document['portion_display_name']))
-      p.add(*jbytes("facts", "factor", document['factor']))
-      p.add(*jbytes("facts", "increment", document['increment']))
-      p.add(*jbytes("facts", "multiplier", document['multiplier']))
-      p.add(*jbytes("facts", "grains", document['grains']))
-      p.add(*jbytes("facts", "whole grains", document['whole_grains']))
-      p.add(*jbytes("facts", "vegetables", document['vegetables']))
-      p.add(*jbytes("facts", "orange vegetables", document['orange_vegetables']))
-      p.add(*jbytes("facts", "dark green vegetables", document['drkgreen_vegetables']))
-      p.add(*jbytes("facts", "starchy vegetables", document['starchy_vegetables']))
-      p.add(*jbytes("facts", "other vegetables", document['other_vegetables']))
-      p.add(*jbytes("facts", "fruits", document['fruits']))
-      p.add(*jbytes("facts", "milk", document['milk']))
-      p.add(*jbytes("facts", "meats", document['meats']))
-      p.add(*jbytes("facts", "soy", document['soy']))
+      p.add(*jbytes("facts", "name", document['Display_Name']))
+      p.add(*jbytes("facts", "portion default", document['Portion_Default']))
+      p.add(*jbytes("facts", "portion amount", document['Portion_Amount']))
+      p.add(*jbytes("facts", "portion display name", document['Portion_Display_Name']))
+      p.add(*jbytes("facts", "factor", document['Factor']))
+      p.add(*jbytes("facts", "increment", document['Increment']))
+      p.add(*jbytes("facts", "multiplier", document['Multiplier']))
+      p.add(*jbytes("facts", "grains", document['Grains']))
+      p.add(*jbytes("facts", "whole grains", document['Whole_Grains']))
+      p.add(*jbytes("facts", "vegetables", document['Vegetables']))
+      p.add(*jbytes("facts", "orange vegetables", document['Orange_Vegetables']))
+      p.add(*jbytes("facts", "dark green vegetables", document['Drkgreen_Vegetables']))
+      p.add(*jbytes("facts", "starchy vegetables", document['Starchy_Vegetables']))
+      p.add(*jbytes("facts", "other vegetables", document['Other_Vegetables']))
+      p.add(*jbytes("facts", "fruits", document['Fruits']))
+      p.add(*jbytes("facts", "milk", document['Milk']))
+      p.add(*jbytes("facts", "meats", document['Meats']))
+      p.add(*jbytes("facts", "soy", document['Soy']))
       p.add(*jbytes("facts", "drybeans peas", document['Drybeans_Peas']))
       p.add(*jbytes("facts", "oils", document['Oils']))
       p.add(*jbytes("facts", "solid fats", document['Solid_Fats']))
@@ -71,7 +69,7 @@ while reader.has_next
       count += 1
       table.flushCommits() if count % 10 == 0
       if count % 500 == 0
-        puts "#{count} records inserted (#{document['food_code']})"
+        puts "#{count} records inserted (#{document['Food_Code']})"
       end
     end
   end
