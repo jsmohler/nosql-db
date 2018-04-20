@@ -1,0 +1,14 @@
+Cursor class -- class representing a pointer to the result set of a query on a MongoDB server.  Allows clients to iterate through the retrieved results. 
+(https://mongodb.github.io/mongo-cxx-driver/api/mongocxx-v3/classmongocxx_1_1cursor.html)
+
+Helpful uses:
+
+var query = { "category_code": "biotech" };
+var cursor = db.collection('companies').find(query);
+
+cursor.forEach( //do something for each record returned from the find);
+
+//This allows the client to "stream data to the application"
+
+Cited from: https://stackoverflow.com/questions/36766956/what-is-a-cursor-in-mongodb
+
