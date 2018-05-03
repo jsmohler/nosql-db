@@ -1,0 +1,1 @@
+Link to documentation: https://docs.mongodb.com/manual/geospatial-queries/
