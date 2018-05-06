@@ -1,1 +1,2 @@
 Link to documentation: https://docs.mongodb.com/manual/geospatial-queries/
+More detailed information at: https://docs.mongodb.com/manual/core/2dsphere/
