@@ -1,14 +1,8 @@
-distinctDegrees = function(cities){
-	var number = cities.location.longitude + '',
-		i = number.split(".", 1);
-	return i[0];
-}
-
-db.system.js.save({_id: 'distinctDegrees', value: distinctDegrees})
-
 map = function() {
-	var degrees = distinctDegrees(this);
-	emit({degrees: degrees}, {count : 1});
+	var number = this.location.longitude + '',
+		i = number.split(".", 1);
+	var degrees = i[0];
+	emit({degree: degrees}, {count : 1});
 }
 
 reduce = function(key, values) {
@@ -16,7 +10,7 @@ reduce = function(key, values) {
 	for (var i = 0; i < values.length; i++) {
 		total += values[i].count;
 	}
-	return { count : values.length };
+	return { count : total };
 }
 
 results = db.runCommand({
