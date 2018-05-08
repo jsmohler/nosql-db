@@ -1,0 +1,2 @@
+CouchDB 2.1 HTTP API Documentation: 
+http://docs.couchdb.org/en/stable/http-api.html

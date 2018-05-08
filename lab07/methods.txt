@@ -1,0 +1,5 @@
+In addition to the GET, POST, PUT, and DELETE method with various arguments, the CouchDB HTTP API also lists the HEAD, COPY, and ANY methods.  
+
+HEAD - Checks the HTTP Headers (various arguments change the information returned)
+COPY - Copies documents (documents copied depend on the arguments that follow)
+ANY- Rewrites HTTP requests for the specified path

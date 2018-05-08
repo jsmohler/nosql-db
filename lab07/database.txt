@@ -1,0 +1,4 @@
+//COUCH_ROOT_URL was used to match with the examples we have completed in class. This should be whatever url matches the couchdb database as installed
+curl -i -XPUT "${COUCH_ROOT_URL}/movies/"
+
+curl -i -XDELETE "${COUCH_ROOT_URL}/movies/"

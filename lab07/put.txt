@@ -1,0 +1,8 @@
+curl -i -XPUT \
+"${COUCH_ROOT_URL}/music/put_id" \
+-H "Content-Type: application/json" \
+-d '{
+ "_id": "put_id",
+ "name": "Imagine Dragons",
+ "albums": ["Evolve", "Smoke + Mirrors", "Night Visions"]
+}'
