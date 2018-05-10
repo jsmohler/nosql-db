@@ -1,0 +1,10 @@
+# follows documentation at http://docs.couchdb.org/en/2.1.1/api/document/attachments.html
+
+#create a new document with a text attachmentt
+curl -i -XPUT \
+"${COUCH_ROOT_URL}/music/new_doc/text.txt" \
+-H "Content-Type: application/json" \
+-d@text.txt
+
+#Query for and return attached text document
+curl -X GET "${COUCH_ROOT_URL}/music/new_doc/text.txt"

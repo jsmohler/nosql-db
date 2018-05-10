@@ -1,5 +1,13 @@
-In addition to the GET, POST, PUT, and DELETE method with various arguments, the CouchDB HTTP API also lists the HEAD, COPY, and ANY methods.  
+In addition to the GET, POST, PUT, and DELETE method with various arguments, the CouchDB HTTP API also lists the HEAD and COPY methods.  
 
-HEAD - Checks the HTTP Headers (various arguments change the information returned)
-COPY - Copies documents (documents copied depend on the arguments that follow)
-ANY- Rewrites HTTP requests for the specified path
+HEAD - Gets the HTTP header of a GET request but without the body of the response
+
+Ex. 
+curl -i -XHEAD "${COUCH_ROOT_URL}/music"
+
+COPY - Copies documents and objects (documents copied depend on the arguments that follow)
+
+Ex. 
+curl -i -XCOPY "${COUCH_ROOT_URL}/music/put_id" \
+-H "Content-Type: application/json" \
+-H "Destination: put_id_copy"

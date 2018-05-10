@@ -1,2 +1,8 @@
-CouchDB 2.1 HTTP API Documentation: 
+CouchDB 2.1 HTTP API Reference Documentation: 
+http://docs.couchdb.org/en/master/api/index.html
+
+Additional Helpful pages:
+http://docs.couchdb.org/en/2.1.1/api/index.html
 http://docs.couchdb.org/en/stable/http-api.html
+http://docs.couchdb.org/en/master/api/basics.html
+
