@@ -1,3 +1,5 @@
+#Assumes the following variable: export COUCH_ROOT_URL=http://localhost:5984
+
 curl -i -XPUT \
 "${COUCH_ROOT_URL}/music/put_id" \
 -H "Content-Type: application/json" \
