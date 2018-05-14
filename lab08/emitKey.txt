@@ -2,7 +2,8 @@ Other supported values:
 (1) Dates -- emit(Date.parse(doc.created_at).getTime(), null);
 (2) All JSON-Types (Special Values: null, true, false; Numbers; Strings; Arrays; Objects)
 
-Source: https://www.slideshare.net/okurow/couchdb-mapreduce-13321353
 
 Emit an array of values as a key:
-The key for each value becomes the unique combination the indices of the array.  To query
+The key for each value becomes the unique combination the indices of the array.  
+
+Source: https://www.slideshare.net/okurow/couchdb-mapreduce-13321353

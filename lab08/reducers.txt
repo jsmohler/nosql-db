@@ -1,0 +1,6 @@
+CouchDB has 3 native reduce functions: 
+(1) _sum -- sums the emitted values (must be numbers)
+(2) _count -- counts number of emitted values (can be any type)
+(3) _stats -- calculates numerical statistics on emitted values (must be numbers)
+
+Source: https://wiki.apache.org/couchdb/Built-In_Reduce_Functions
