@@ -1,3 +1,5 @@
 function(doc) {
-	emit(_id, _conflicts);
+	if (doc._conflicts) {
+	  emit(doc._id, doc._conflicts);
+  }
 }

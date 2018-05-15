@@ -1,1 +1,4 @@
+# assumes the line "export COUCH_ROOT_URL=http://localhost:5984" has been run 
+# uses music collection that was created in class. 
+
 curl "${COUCH_ROOT_URL}/music/_design/random/_view/artist?limit=1&startkey=`ruby -e 'puts rand'`"

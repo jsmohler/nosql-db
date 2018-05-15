@@ -1,1 +1,5 @@
-curl "${COUCH_ROOT_URL}/music/_design/conflicts/conflicts_view"
+# assumes that a view names conflicts_view has been made under a design document named conflicts
+# assumes the line "export COUCH_ROOT_URL=http://localhost:5984" has been run 
+# uses music-repl collection that was created in class. 
+
+curl "${COUCH_ROOT_URL}/music-repl/_design/conflicts/_view/conflicts_view"
