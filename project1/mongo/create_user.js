@@ -9,7 +9,7 @@ db.once('open', function() {
 		lineTwo: {type: String, required: false},
 		city: {type: String, required: true},
 		state: {type: String, required: true},
-		zip: {type: String, required: true}
+		zip: {type: Number, required: true}
 	})
 
 	var userSchema = mongoose.Schema({
@@ -24,21 +24,21 @@ db.once('open', function() {
 
 	var User = mongoose.model('User', userSchema);
 
-	// var user = new User({
-	// 	name: {firstName:'Bob',lastName: 'Smith'},
-	// 	email: 'bob@pizzaria.com',
-	// 	phone: '+1 (303) 123-4567',
-	// 	address: {
-	// 		lineOne: '1234 Pizza Street',
-	// 		city: 'Denver',
-	// 		state: 'CO',
-	// 		zip: 80210
-	// 	}
-	// });
-	//
-	// user.save(function (err, user) {
-  //   if (err) return console.error(err);
-	// 	console.log('added');
-  // })
+	var user = new User({
+		name: {firstName:'Bob',lastName: 'Smith'},
+		email: 'bob@pizzaria.com',
+		phone: '+1 (303) 123-4567',
+		address: {
+			lineOne: '1234 Pizza Street',
+			city: 'Denver',
+			state: 'CO',
+			zip: 80210
+		}
+	});
+
+	user.save(function (err, user) {
+    if (err) return console.error(err);
+		console.log('added');
+  })
 
 });
