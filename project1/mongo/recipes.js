@@ -7,7 +7,7 @@ db.once('open', function() {
 	var recipeSchema = mongoose.Schema({
 		description: {type: String, required: true},
 		name: {type: String, required: true},
-    ingredients: [{type: mongoose.Schema.Types.ObjectId, ref: 'Ingredient'}],
+    ingredients: [{name: {type: mongoose.Schema.Types.ObjectId, ref: 'Ingredient'}, quantity: {type: Number, required: true}}],
 		instructions: [String]
 	});
 

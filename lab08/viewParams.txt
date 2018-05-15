@@ -1,4 +1,4 @@
-URL Query Parameters from http://docs.couchdb.org/en/2.0.0/api/ddoc/views.html
+URL Query Parameters from http://docs.couchdb.org/en/2.1.1/api/ddoc/views.html
 
 (1) conflicts (boolean) – Includes conflicts information in response. Ignored if include_docs isn’t true. Default is false
 (2) descending (boolean) – Return the documents in descending by key order. Default is false
