@@ -6,8 +6,8 @@ public class DataGenerator {
 
     Random generator = new Random() ;
     int numUsers = 1000 ;
-    int NumBoats = 1000 ;
-    int NumReservations = 30000 ;
+    int numRecipes = 25;
+    int numOrders = 50000;
 
     try {
       String tuple = "";      // a tuple/record of attributes
@@ -24,6 +24,8 @@ public class DataGenerator {
       
       String states[] = {"AL", "CO", "AZ", "CA", "GA", "CT", "KS", "IA", "ME", "MD", "FL", "OH", "NJ", "MT", "MS", "HI"};
       int zips[] = {80111, 303920, 920192, 89201, 48739, 80210, 80211, 982012, 90210, 82916, 837281, 930291, 837161, 83940, 565678};
+	
+	String cities[] = {"Denver", "Highlands Ranch", "Greenwood Village", "Glendale", "Aurora", "Washington Park", "Capitol Hill", "Rino", "The Highlans", "Commerce City"};
   
   
       // create the Users relation
@@ -35,6 +37,7 @@ public class DataGenerator {
       int stateCount = 0;
       int nameCount = 0;
       int zipCount = 0;
+	int cityCount = 0;
   
       for (int i = 1 ; i <= numUsers ; i++) {
         userID = Integer.toString(i) ;// ID
@@ -43,18 +46,16 @@ public class DataGenerator {
         email = fname + "." + lname + i + "@gmail.com";
         phone = Integer.toString(generator.nextInt(900) + 100) + "-" + Integer.toString(generator.nextInt(900) + 100) + "-" 
         		+ Integer.toString(generator.nextInt(9000) + 1000);
-        addrLine1 = Integer.toString(generator.nextInt(400)) + streets[streetCount];
-        if (i % 2 == 0) {
-        	addrLine2 = "Apt #" + i;
-        } else {
-		addrLine2 = "";
-	}
+        addrLine1 = Integer.toString(generator.nextInt(400)) + " " + streets[streetCount];
+        addrLine2 = "Apt #" + i;
+       
+	city = cities[cityCount];
 
         state = states[stateCount];
         zip = Integer.toString(zips[zipCount]);
         
-        
-        tuple = "" + userID + "," + fname + "," + lname + "," + email + "," + phone + "," +  addrLine1 + "," + addrLine2 + "," + state + "," + zip + "\n";
+        //user, email, fname, lname, phone, addr1, addr2, city, state, zip
+        tuple = userID + "," + email + "," + fname + "," + lname + "," + phone + "," +  addrLine1 + "," + addrLine2 + "," + city + "," + state + "," + zip + "\n";
   
         bw.write(tuple) ;
         if (nameCount == names.length - 1){
@@ -77,53 +78,55 @@ public class DataGenerator {
         } else {
         	zipCount ++;
         }
+	if (cityCount == cities.length - 1){
+		cityCount = 0;
+	} else {
+		cityCount ++;
+	}
       }
       bw.close() ;
 
-   /*
-      // create the boats relation
+   
   
-      file = new File("./data_boats") ;
+      file = new File("./data_recipes.txt") ;
       fw = new FileWriter(file) ;
       bw = new BufferedWriter(fw) ;
+      String recipeName;
+      String recipeDescr;
   
-      for (int i = 1 ; i <= NumBoats ; i++) {
-        a1 = Integer.toString(i) ; // bid
-        a2 = "guppy" + Integer.toString(i) ;// name
-        a3 = Integer.toString( generator.nextInt(10)+1 ) ;   // rating needed to reserve
-        a4 = "red" + Integer.toString(i) ;// color 
-        tuple = a1 + "," + a2 + "," + a3 + "," + a4 + "\n";
+      for (int i = 1 ; i <= numRecipes ; i++) {
+        recipeName = Integer.toString(i) ; 
+        recipeDescr = "This recipe is really yummy!" + Integer.toString(i);
+        tuple = recipeName + ", " + recipeDescr + "\n";
   
         bw.write(tuple) ;
       }
       bw.close() ;
   
   
-      // create the reserve relation
-      // NOTE: we know there are sailor tuples for sid 1..NumSailors
-      //       at that there are boat tuples for bid 1..NumBoats,
-      //       so we just draw random numbers from those ranges
-  
-      file = new File("./data_reserve") ;
+      
+      file = new File("./data_orders.txt") ;
       fw = new FileWriter(file) ;
       bw = new BufferedWriter(fw) ;
+      
+      String orderID, orderUserID, timePlaced, orderRecName;
+
   
-      for (int i = 1 ; i <= NumReservations ; i++) {
-        // bid
-        a1 = Integer.toString( generator.nextInt(NumBoats)+1 ) ;
+      for (int i = 1 ; i <= numOrders ; i++) {
+        
+        orderID = Integer.toString(i) ;
   
-        // sid
-        a2 = Integer.toString( generator.nextInt(NumSailors)+1 ) ;
+        orderUserID = Integer.toString(generator.nextInt(numUsers)+1 ) ;
   
-        // date
-        a3 = "2013-" + Integer.toString(generator.nextInt(12)+1) + 
+        timePlaced = "2017-" + Integer.toString(generator.nextInt(12)+1) + 
              "-" + Integer.toString(generator.nextInt(28)+1) ;
+	orderRecName = Integer.toString(generator.nextInt(numRecipes)+1 ) ;
   
-        tuple = a1 + "," + a2 + "," + a3 + "\n";
+        tuple = orderID + ", " + orderUserID + ", " + timePlaced + ", " + orderRecName + "\n";
   
         bw.write(tuple) ;
       }
-      bw.close() ; */
+      bw.close() ; 
     }
     catch (IOException e) {
       e.printStackTrace() ;

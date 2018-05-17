@@ -9,7 +9,7 @@ CREATE TABLE users (
     addr_line2 varchar(40),
     city varchar(40) NOT NULL,
     state varchar(2) NOT NULL,
-    zip varchar(5) NOT NULL
+    zip varchar(10) NOT NULL
 );
 
 CREATE TABLE inventory(
@@ -25,7 +25,7 @@ CREATE TABLE recipes (
 
 CREATE TABLE ingredient_recipe_map (
 	rec_name varchar(30) REFERENCES recipes,
-	ingred_name varchar(3) REFERENCES inventory,
+	ingred_name varchar(30) REFERENCES inventory,
 	recipe_qty integer NOT NULL
 );
 
