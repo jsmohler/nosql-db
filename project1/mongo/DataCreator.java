@@ -85,7 +85,7 @@ class DataCreator {
         sb.append("\", \"description\": \"description");
         sb.append(r.nextInt(ingredients.length));
         sb.append("\", \"quantity\": ");
-        sb.append(250000);
+        sb.append(150000);
 
         String insert = "db.inventory.insert(" + sb.toString() + "});\n";
         bwIngredients.write(insert);

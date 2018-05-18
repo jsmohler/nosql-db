@@ -48,5 +48,32 @@ db.system.js.save({_id: "createOrder", value: function(user, recipe) {
 			return "Order up!";
 		}
 	}
-}
-})
+}});
+
+db.system.js.save({_id: "restock", value: function(name, quantity) {
+	var inventory = db.inventory;
+	var ingredient = inventory.findOne({"name": name});
+
+	if (ingredient == null) {
+		throw "No such ingredient!";
+	} else {
+		var newAmount = ingredient.quantity + quantity;
+		inventory.update({'name': name}, {$set:{'quantity': newAmount}});
+	}
+}});
+
+db.system.js.save({_id: "throwOut", value: function(name, quantity) {
+	var inventory = db.inventory;
+	var ingredient = inventory.findOne({"name": name});
+
+	if (ingredient == null) {
+		throw "No such ingredient!";
+	} else {
+		var newAmount = ingredient.quantity - quantity;
+		if (newAmount < 0) {
+			throw "You don't have that many!";
+		} else {
+			inventory.update({'name': name}, {$set:{'quantity': newAmount}});
+		}
+	}
+}});
