@@ -1,0 +1,13 @@
+After inserting 5000 orders into the order collection, I ran a query for all 25 of the recipes that followed this pattern: db.orders.find({recipe: 1}).explain("executionStats").executionStats. I ran this for all 25 possible recipes to determine an average executionTimeMillis value. To view the full results of these queries, please view the explainBefore.js file.  Without adding an index on recipe ID, there was a range of 16-30 milliseconds, with an average execution time of 21.68 milliseconds.
+
+I then added the following index:
+
+> db.orders.ensureIndex({ recipe: 1 })
+{
+	"createdCollectionAutomatically" : false,
+	"numIndexesBefore" : 1,
+	"numIndexesAfter" : 2,
+	"ok" : 1
+}
+
+The index then substantially reduced execution time. To view the full results of these queries, please view the explainAfter.js file. After adding one index, there was a range of 2-9 miilliseconds, with an average execution time of 3.36 milliseconds. From these results, its evident that indexes are incredibly valuable in improving query performance. 
