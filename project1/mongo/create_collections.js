@@ -76,7 +76,7 @@ db.createCollection("inventory", {
         },
         quantity: {
           type: "number",
-          minimum: 1,
+          minimum: 0,
           description: "must be a int greater than or equal to 1 and is required"
         },
       }
