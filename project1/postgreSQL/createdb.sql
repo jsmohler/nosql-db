@@ -32,6 +32,6 @@ CREATE TABLE ingredient_recipe_map (
 CREATE TABLE orders (
     order_id SERIAL PRIMARY KEY NOT NULL,
     user_id SERIAL REFERENCES users NOT NULL,
-    time_placed time NOT NULL,      
+    time_placed TIMESTAMP NOT NULL,      
     rec_name varchar(30) REFERENCES recipes NOT NULL 
 );
