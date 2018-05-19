@@ -1,11 +1,27 @@
-createdb.sql -- creates all the tables in "pizza" database (assumes database has already been created)
+comparison.txt -- Comparison of indexed versus non-indexed queries to the orders table. 
+
+createdb.sql -- create pizza database and all the tables. Also loads all data (EXCEPT ORDERS) and the takeOrder function.  
+	
+	**EXECUTE in shell: \include createdb.sql**
+
+createRecipeIndex.sql -- command to create index on rec_name in orders table.
 
 DataGenerator.class -- file generated when DataGenerator.java is compiled
 
 DataGenerator.java -- java program to generate data for users, recipes, and ordrs.  Generated data is exported to a text file with csv format.  
 
-data_inventory.txt, data_orders.txt, data_recipes.txt, data_users.txt -- text files with csv format that contains data for respective tables. 
+data_inventory.txt, data_orders.txt, data_recipes.txt, data_users.txt -- Text files in CSV format that contains data for respective tables. (Users, recipes, and order "data" generated via DataGenerator.java).
 
-loadInventory.sql, loadMap.sql, loadRecipes.sql, loadUsers.sql -- files that contain the SQL commands used to load data from the csv formatted data files into the respective tables in the database.  loadMap.sql contains only a SQL INSERT command.  
+IndexedQueries.txt -- EXPLAIN results for indexed queries.
 
-takeOrders.sql -- the takeOrders server side function.  
+loadInventory.sql, loadMap.sql, loadOrders.sql, loadRecipes.sql, loadUsers.sql -- files that contain the SQL commands used to load data from the csv formatted data files into the respective tables in the database.  loadMap.sql contains only a SQL INSERT command and loadOrders.sql contains 50,000 calls to the takeOrder function -- generated via DataGenerator.java.
+
+	**EXECUTE in shell: \include loadOrders.sql**
+
+NonIndexedQueries.txt -- EXPLAIN results for non-indexed queries. 
+
+performanceQueries.sql -- queries to to the orders table by recipe name.  One query for each recipe.  
+
+takeOrders.sql -- PL/SQL code that creates the takeOrder(int, varchar(30)) server side function.  To correctly call this function, the first parameter must be the userID (1-1000) and the recipe name (1-27 with this data).
+
+testingInserts.sql -- testing inserts to check looping and exception performance of takeOrder(). 

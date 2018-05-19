@@ -1,3 +1,6 @@
+CREATE DATABASE pizza;
+
+\c pizza
 
 CREATE TABLE users (
     user_id SERIAL PRIMARY KEY NOT NULL,
@@ -20,7 +23,8 @@ CREATE TABLE inventory(
 
 CREATE TABLE recipes (
     rec_name varchar(30) PRIMARY KEY NOT NULL,
-    rec_descr varchar(80) NOT NULL
+    rec_descr varchar(80) NOT NULL,
+    cook_instruct varchar(100)
 );
 
 CREATE TABLE ingredient_recipe_map (
@@ -35,3 +39,9 @@ CREATE TABLE orders (
     time_placed TIMESTAMP NOT NULL,      
     rec_name varchar(30) REFERENCES recipes NOT NULL 
 );
+
+\include loadUsers.sql
+\include loadInventory.sql
+\include loadRecipes.sql
+\include loadMap.sql
+\include takeOrder.sql

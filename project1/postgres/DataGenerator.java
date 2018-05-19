@@ -91,45 +91,62 @@ public class DataGenerator {
       file = new File("./data_recipes.txt") ;
       fw = new FileWriter(file) ;
       bw = new BufferedWriter(fw) ;
-      String recipeName;
-      String recipeDescr;
+      String recipeName, recipeDescr, cooking;
   
       for (int i = 1 ; i <= numRecipes ; i++) {
         recipeName = Integer.toString(i) ; 
-        recipeDescr = "This recipe is really yummy!" + Integer.toString(i);
-        tuple = recipeName + ", " + recipeDescr + "\n";
-  
+        recipeDescr = "This recipe is " + Integer.toString(i) + " yummies!";
+	cooking = "Better cooking recipe " + recipeName + " really well!";        
+	tuple = recipeName + ", " + recipeDescr + ", " + cooking + "\n";
+  	
         bw.write(tuple) ;
       }
       bw.close() ;
   
   
       
-      file = new File("./data_orders.txt") ;
+      file = new File("./loadOrders.sql") ;
       fw = new FileWriter(file) ;
       bw = new BufferedWriter(fw) ;
       
       String orderID, orderUserID, timePlaced, orderRecName;
 
-  
-      for (int i = 1 ; i <= numOrders ; i++) {
+  	// SELECT takeOrder(orderUserID, 'orderRecName');\n
+      for (int i = 1 ; i <= numOrders; i++) {
         
-        orderID = Integer.toString(i) ;
-  
         orderUserID = Integer.toString(generator.nextInt(numUsers)+1 ) ;
-  
-        timePlaced = "2017-" + Integer.toString(generator.nextInt(12)+1) + 
-             "-" + Integer.toString(generator.nextInt(28)+1) ;
-	orderRecName = Integer.toString(generator.nextInt(numRecipes)+1 ) ;
-  
-        tuple = orderID + ", " + orderUserID + ", " + timePlaced + ", " + orderRecName + "\n";
+  	orderRecName = Integer.toString(generator.nextInt(numRecipes)+1 ) ;
+  	tuple = "SELECT takeOrder(" + orderUserID + ", '" + orderRecName + "');\n";
+
   
         bw.write(tuple) ;
       }
       bw.close() ; 
+
+	//Queries
+ 	file = new File("./performanceQueries.sql") ;
+      	fw = new FileWriter(file) ;
+      	bw = new BufferedWriter(fw) ;
+	
+	//SELECT * FROM orders WHERE rec_name = 'recID';
+	String recID;
+	for (int i = 1 ; i <= numRecipes; i++) {
+        recID = Integer.toString(i);
+  	tuple = "EXPLAIN SELECT * FROM orders WHERE rec_name = '" + recID + "';\n";
+
+  
+        bw.write(tuple) ;
+      }
+      bw.close() ; 
+
     }
     catch (IOException e) {
       e.printStackTrace() ;
     }
   }
 }
+
+
+
+
+

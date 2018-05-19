@@ -9,9 +9,6 @@ timeReceived TIMESTAMP:= LOCALTIMESTAMP;
 
 BEGIN
 
---find recipe record in mapPQ
-FOR mapRecord IN SELECT * FROM ingredient_recipe_map WHERE rec_name = recipe
-LOOP
 --loop for each ingredient
     FOR invenRecord IN (
     SELECT * FROM inventory i JOIN ingredient_recipe_map m
@@ -25,7 +22,7 @@ LOOP
 			WHERE ingred_name = invenRecord.ingred_name;
         END IF;
 	END LOOP;
-END LOOP;
+
 
 INSERT INTO orders (user_id, time_placed, rec_name) VALUES (userName, timeReceived, recipe);
 RAISE NOTICE 'Order Complete!';
