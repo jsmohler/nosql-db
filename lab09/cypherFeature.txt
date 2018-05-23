@@ -1,0 +1,10 @@
+A pretty interesting command is the UNION function which can return the union of a query.  In using relational databases, this feature has been very helpful and so it seems like a great built in utility for a NoSQL database like Neo4j. 
+
+Example of use for UNION (from documentation):
+
+MATCH (a)-[:KNOWS]->(b)
+RETURN b.name
+UNION
+MATCH (a)-[:LOVES]->(b)
+RETURN b.name
+
