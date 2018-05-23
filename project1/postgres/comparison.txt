@@ -1,0 +1,11 @@
+Once I inserted 50,000 orders into the orders table, I queried that table 25 times by rec_name (once for each recipe). 
+
+The EXPLAIN results for these non-indexed queries can be seen in 'NonIndexedQueries.txt' and for the indexed queries can be seen in 'IndexedQueries.txt'.  
+
+EXPLAIN measures COST in units of disk page fetches.
+
+The ESTIMATED STARTUP COST and ESTIMATED TOTAL COST for each non-indexed query was 0.0 and 825.24, respectively.  
+
+The ESTIMATED STARTUP COST and ESTIMATED TOTAL COST for each indexed query averaged approximately 39.92 and 361.62, respectively.  
+
+Comparing the ESTIMATED TOTAL COSTs for indexed versus non-indexed queries, there's an average of 464 disk page fetches per query!  Thus, it's quite obvious that indexing rec_name on the orders table will improve query performance significantly if querying by recipe. 

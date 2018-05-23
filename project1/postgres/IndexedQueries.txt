@@ -1,0 +1,59 @@
+Results from queries to the orders table with an index on rec_name:
+
+QUERY PLAN                                    
+---------------------------------------------------------------------------------
+ Bitmap Heap Scan on orders  (cost=40.06..344.50 rows=2035 width=18)
+   Recheck Cond: ((rec_name)::text = '1'::text)
+   ->  Bitmap Index Scan on rec_name_index  (cost=0.00..39.55 rows=2035 width=0)
+         Index Cond: ((rec_name)::text = '1'::text)
+(4 rows)
+
+
+Bitmap Heap Scan on orders  (cost=39.79..343.79 rows=2000 width=18)
+   Recheck Cond: ((rec_name)::text = '4'::text)
+   ->  Bitmap Index Scan on rec_name_index  (cost=0.00..39.29 rows=2000 width=0)
+         Index Cond: ((rec_name)::text = '4'::text)
+(4 rows)
+
+-
+ Bitmap Heap Scan on orders  (cost=39.95..344.19 rows=2020 width=18)
+   Recheck Cond: ((rec_name)::text = '6'::text)
+   ->  Bitmap Index Scan on rec_name_index  (cost=0.00..39.44 rows=2020 width=0)
+         Index Cond: ((rec_name)::text = '6'::text)
+(4 rows)
+
+-
+ Bitmap Heap Scan on orders  (cost=40.41..345.41 rows=2080 width=18)
+   Recheck Cond: ((rec_name)::text = '7'::text)
+   ->  Bitmap Index Scan on rec_name_index  (cost=0.00..39.89 rows=2080 width=0)
+         Index Cond: ((rec_name)::text = '7'::text)
+(4 rows)
+
+-
+ Bitmap Heap Scan on orders  (cost=39.59..343.26 rows=1974 width=18)
+   Recheck Cond: ((rec_name)::text = '8'::text)
+   ->  Bitmap Index Scan on rec_name_index  (cost=0.00..39.09 rows=1974 width=0)
+         Index Cond: ((rec_name)::text = '8'::text)
+(4 rows)
+
+-
+ Bitmap Heap Scan on orders  (cost=39.17..342.17 rows=1920 width=18)
+   Recheck Cond: ((rec_name)::text = '9'::text)
+   ->  Bitmap Index Scan on rec_name_index  (cost=0.00..38.69 rows=1920 width=0)
+         Index Cond: ((rec_name)::text = '9'::text)
+(4 rows)
+
+-
+ Bitmap Heap Scan on orders  (cost=31.73..329.18 rows=1476 width=18)
+   Recheck Cond: ((rec_name)::text = '11'::text)
+   ->  Bitmap Index Scan on rec_name_index  (cost=0.00..31.36 rows=1476 width=0)
+         Index Cond: ((rec_name)::text = '11'::text)
+(4 rows)
+
+ Bitmap Heap Scan on orders  (cost=39.76..343.71 rows=1996 width=18)
+   Recheck Cond: ((rec_name)::text = '12'::text)
+   ->  Bitmap Index Scan on rec_name_index  (cost=0.00..39.26 rows=1996 width=0)
+         Index Cond: ((rec_name)::text = '12'::text)
+(4 rows)
+
+

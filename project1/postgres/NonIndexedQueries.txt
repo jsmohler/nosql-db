@@ -1,0 +1,153 @@
+Results from querying Orders by recipe:
+
+pizza=# \include performanceQueries.sql
+                         QUERY PLAN                         
+------------------------------------------------------------
+ Seq Scan on orders  (cost=0.00..825.24 rows=2022 width=18)
+   Filter: ((rec_name)::text = '1'::text)
+(2 rows)
+
+                         QUERY PLAN                         
+------------------------------------------------------------
+ Seq Scan on orders  (cost=0.00..825.24 rows=1945 width=18)
+   Filter: ((rec_name)::text = '2'::text)
+(2 rows)
+
+                         QUERY PLAN                         
+------------------------------------------------------------
+ Seq Scan on orders  (cost=0.00..825.24 rows=2054 width=18)
+   Filter: ((rec_name)::text = '3'::text)
+(2 rows)
+
+                         QUERY PLAN                         
+------------------------------------------------------------
+ Seq Scan on orders  (cost=0.00..825.24 rows=2051 width=18)
+   Filter: ((rec_name)::text = '4'::text)
+(2 rows)
+
+                        QUERY PLAN                         
+-----------------------------------------------------------
+ Seq Scan on orders  (cost=0.00..825.24 rows=533 width=18)
+   Filter: ((rec_name)::text = '5'::text)
+(2 rows)
+
+                         QUERY PLAN                         
+------------------------------------------------------------
+ Seq Scan on orders  (cost=0.00..825.24 rows=2041 width=18)
+   Filter: ((rec_name)::text = '6'::text)
+(2 rows)
+
+                         QUERY PLAN                         
+------------------------------------------------------------
+ Seq Scan on orders  (cost=0.00..825.24 rows=2140 width=18)
+   Filter: ((rec_name)::text = '7'::text)
+(2 rows)
+
+                         QUERY PLAN                         
+------------------------------------------------------------
+ Seq Scan on orders  (cost=0.00..825.24 rows=1981 width=18)
+   Filter: ((rec_name)::text = '8'::text)
+(2 rows)
+
+                         QUERY PLAN                         
+------------------------------------------------------------
+ Seq Scan on orders  (cost=0.00..825.24 rows=1977 width=18)
+   Filter: ((rec_name)::text = '9'::text)
+(2 rows)
+
+                        QUERY PLAN                         
+-----------------------------------------------------------
+ Seq Scan on orders  (cost=0.00..825.24 rows=489 width=18)
+   Filter: ((rec_name)::text = '10'::text)
+(2 rows)
+
+                         QUERY PLAN                         
+------------------------------------------------------------
+ Seq Scan on orders  (cost=0.00..825.24 rows=1476 width=18)
+   Filter: ((rec_name)::text = '11'::text)
+(2 rows)
+
+                         QUERY PLAN                         
+------------------------------------------------------------
+ Seq Scan on orders  (cost=0.00..825.24 rows=1996 width=18)
+   Filter: ((rec_name)::text = '12'::text)
+(2 rows)
+
+                         QUERY PLAN                         
+------------------------------------------------------------
+ Seq Scan on orders  (cost=0.00..825.24 rows=1917 width=18)
+   Filter: ((rec_name)::text = '13'::text)
+(2 rows)
+
+                         QUERY PLAN                         
+------------------------------------------------------------
+ Seq Scan on orders  (cost=0.00..825.24 rows=1966 width=18)
+   Filter: ((rec_name)::text = '14'::text)
+(2 rows)
+
+                         QUERY PLAN                         
+------------------------------------------------------------
+ Seq Scan on orders  (cost=0.00..825.24 rows=1942 width=18)
+   Filter: ((rec_name)::text = '15'::text)
+(2 rows)
+
+                         QUERY PLAN                         
+------------------------------------------------------------
+ Seq Scan on orders  (cost=0.00..825.24 rows=2047 width=18)
+   Filter: ((rec_name)::text = '16'::text)
+(2 rows)
+
+                         QUERY PLAN                         
+------------------------------------------------------------
+ Seq Scan on orders  (cost=0.00..825.24 rows=2051 width=18)
+   Filter: ((rec_name)::text = '17'::text)
+(2 rows)
+
+                        QUERY PLAN                         
+-----------------------------------------------------------
+ Seq Scan on orders  (cost=0.00..825.24 rows=766 width=18)
+   Filter: ((rec_name)::text = '18'::text)
+(2 rows)
+
+                         QUERY PLAN                         
+------------------------------------------------------------
+ Seq Scan on orders  (cost=0.00..825.24 rows=1942 width=18)
+   Filter: ((rec_name)::text = '19'::text)
+(2 rows)
+
+                         QUERY PLAN                         
+------------------------------------------------------------
+ Seq Scan on orders  (cost=0.00..825.24 rows=1974 width=18)
+   Filter: ((rec_name)::text = '20'::text)
+(2 rows)
+
+                         QUERY PLAN                         
+------------------------------------------------------------
+ Seq Scan on orders  (cost=0.00..825.24 rows=2031 width=18)
+   Filter: ((rec_name)::text = '21'::text)
+(2 rows)
+
+                         QUERY PLAN                         
+------------------------------------------------------------
+ Seq Scan on orders  (cost=0.00..825.24 rows=1879 width=18)
+   Filter: ((rec_name)::text = '22'::text)
+(2 rows)
+
+                         QUERY PLAN                         
+------------------------------------------------------------
+ Seq Scan on orders  (cost=0.00..825.24 rows=1997 width=18)
+   Filter: ((rec_name)::text = '23'::text)
+(2 rows)
+
+                        QUERY PLAN                         
+-----------------------------------------------------------
+ Seq Scan on orders  (cost=0.00..825.24 rows=485 width=18)
+   Filter: ((rec_name)::text = '24'::text)
+(2 rows)
+
+                         QUERY PLAN                         
+------------------------------------------------------------
+ Seq Scan on orders  (cost=0.00..825.24 rows=2000 width=18)
+   Filter: ((rec_name)::text = '25'::text)
+(2 rows)
+
