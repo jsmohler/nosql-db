@@ -1,0 +1,26 @@
+//Create 3 nodes
+CREATE (f:Friend {name:"Cedric Smith III", class: "senior", grad_year: 2018})
+CREATE (f:Friend {name:"Victoria Fernalld", class: "senior", grad_year: 2018})
+CREATE (f:Friend {name:"Jordna Mohler", class: "senior", grad_year: 2018})
+
+
+//Create 5 relationships
+MATCH (a:Friend {name: "Cedric Smith III"}),
+(b:Friend {name: "Jordan Mohler"})
+CREATE (a)-[r:worked_with]->(b)
+
+MATCH (a:Friend {name: "Jordan Mohler"}),
+(b:Friend {name: "Victoria Fernalld"})
+CREATE (a)-[r:studies_with]->(b)
+
+MATCH (a:Friend {name: "Cedric Smith III"}),
+(b:Friend {name: "Jordan Mohler"})
+CREATE (b)-[r:befriended]->(a)
+
+MATCH (a:Friend {name: "Cedric Smith III"}),
+(b:Friend {name: "Victoria Fernalld"})
+CREATE (b)-[r:befriended]->(a)
+
+MATCH (a:Friend {name: "Jordan Mohler"}),
+(b:Friend {name: "Victoria Fernalld"})
+CREATE (b)-[r:befriended]->(a)
