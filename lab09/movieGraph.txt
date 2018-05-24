@@ -1,0 +1,24 @@
+
+The first step in the movie-graph demo is to create the movie graph using a code block provided by the demo.
+
+The second step in the demo is to run queries for individual nodes on the graph we created in the previous step. The queries included:
+ (1) finding Tom Hanks
+ (2) finding movies with the title "Cloud Atlas"
+ (3) finding 10 people
+ (4) finding movies released in the 1990s.
+
+The third step was running queries to find patterns within the graph. The queries included:
+ (1) finding all Tom Hanks movies (which makes a very pretty flower-like graph)
+ (2) finding who directed "Cloud Atlas"
+ (3) finding Tom Hanks' co-actors
+ (4) finding how people are related to "Cloud Atlas"   
+
+The fourth step in the demo involved finding the distances between nodes. These included:
+ (1) finding all movies and actors up to 4 "hops" away from Kevin Bacon
+ (2) finding the shortest path from Kevin Bacon to Meg Ryan (4 total hops: Kevin Bacon -> Apollo 13 -> Tom Hanks -> Sleepless in Seattle -> Meg Ryan)
+
+The fifth step was to make recommendations for new co-actors for Tom Hanks based off of the movie-graph. This included:
+ (1) finding the co-workers of Tom Hanks' co-workers, or rather, finding Tom Hanks' co-co-workers
+ (2) finding someone to introduce Tom Hanks to Tom Cruise
+
+The sixth and final step of the demo was to clean up by deleting the movie and person nodes and all their relationships, then double-checking that everything is clean. 
