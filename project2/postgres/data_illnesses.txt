@@ -1,1000 +1,1000 @@
-Kidney disease0
-Cold1
-Chest pain2
-Broken Bone3
-Blindness4
-Appendicitis5
-Allergies6
-Lupis7
-Kidney disease8
-Croup9
-Blindness10
-Appendicitis11
-Bunions12
-Brain tumor13
-Infection14
-Lupis15
-Chicken pox16
-Stomach Bug17
-Cold18
- Cancer19
-Stomach Bug20
-Cough21
-Constipation22
-Pancreatitis23
-Lupis24
-Cold25
-Kidney disease26
-Lupis27
-Mono28
-Stomach Bug29
-Swine Flu30
-Brain tumor31
-Infection32
-Cold33
-Pnemonia34
-Bunions35
-Influenza36
-Abcess37
-Stomach Bug38
-Kidney disease39
-Croup40
-Lupis41
-Influenza42
-Kidney disease43
-Stomach Bug44
-Kidney disease45
-Bronchitis46
-Kidney disease47
-Chest pain48
-Asthma49
-Infection50
-Kidney disease51
+Lupis0
+Brain tumor1
+Stomach Bug2
+Constipation3
+Chest pain4
+Pancreatitis5
+Pancreatitis6
+Influenza7
+Chicken pox8
+Blindness9
+Broken Bone10
+Flu11
+ Cancer12
+Appendicitis13
+Lupis14
+Strep Throat15
+Mono16
+Asthma17
+Allergies18
+Appendicitis19
+Appendicitis20
+Abcess21
+Abcess22
+Flu23
+Influenza24
+Allergies25
+Broken Bone26
+Bunions27
+Pancreatitis28
+Influenza29
+Bronchitis30
+Mono31
+Pancreatitis32
+Broken Bone33
+Bronchitis34
+Abcess35
+Brain tumor36
+Blindness37
+Abcess38
+Strep Throat39
+Infection40
+Strep Throat41
+ Cancer42
+Cough43
+Flu44
+Infection45
+ Cancer46
+Allergies47
+ Cancer48
+Mono49
+Broken Bone50
+Flu51
 Constipation52
-Lupis53
-Stomach Bug54
-Stomach Bug55
-Abcess56
-Lupis57
-Constipation58
-Broken Bone59
-Asthma60
-Infection61
-Brain tumor62
-Asthma63
-Appendicitis64
-Chest pain65
-Abcess66
-Kidney disease67
-Bunions68
-Kidney disease69
- Cancer70
-Mono71
-Asthma72
-Lupis73
-Cough74
-Cold75
-Mono76
+Chest pain53
+Cold54
+Appendicitis55
+Blindness56
+Kidney disease57
+Infection58
+Abcess59
+Cough60
+Swine Flu61
+Lupis62
+Cough63
+Cold64
+Cough65
+Kidney disease66
+Bunions67
+Allergies68
+ Cancer69
+Brain tumor70
+Flu71
+Appendicitis72
+Cough73
+Croup74
+Lupis75
+Bladder Infection76
 Flu77
-Pancreatitis78
-Flu79
-Cough80
-Cold81
-Chicken pox82
-Abcess83
-Chest pain84
-Blindness85
-Chest pain86
+Bronchitis78
+Brain tumor79
+Appendicitis80
+Brain tumor81
+Stomach Bug82
+Croup83
+Abcess84
+Allergies85
+Brain tumor86
 Bronchitis87
-Strep Throat88
-Pnemonia89
-Pancreatitis90
-Influenza91
-Pnemonia92
-Bladder Infection93
-Abcess94
- Cancer95
-Strep Throat96
-Allergies97
-Abcess98
-Appendicitis99
-Infection100
-Asthma101
-Swine Flu102
-Bunions103
-Stomach Bug104
-Cough105
-Bronchitis106
-Bronchitis107
-Appendicitis108
+Croup88
+Allergies89
+Asthma90
+Asthma91
+Asthma92
+Asthma93
+Appendicitis94
+Kidney disease95
+Pancreatitis96
+Cold97
+Pnemonia98
+Infection99
+Pancreatitis100
+Pnemonia101
+Pnemonia102
+Chest pain103
+Croup104
+Pancreatitis105
+ Cancer106
+Blindness107
+Mono108
 Broken Bone109
-Influenza110
-Broken Bone111
-Abcess112
-Kidney disease113
-Asthma114
-Cold115
-Strep Throat116
-Influenza117
-Abcess118
-Strep Throat119
-Pnemonia120
-Constipation121
-Asthma122
-Kidney disease123
-Pancreatitis124
-Croup125
-Appendicitis126
-Mono127
-Croup128
- Cancer129
-Constipation130
-Allergies131
-Abcess132
- Cancer133
-Chest pain134
-Abcess135
-Cough136
-Pancreatitis137
-Cold138
-Infection139
-Infection140
-Appendicitis141
-Chest pain142
-Bunions143
-Allergies144
-Lupis145
-Bladder Infection146
-Mono147
-Mono148
-Asthma149
-Lupis150
-Asthma151
-Bunions152
-Appendicitis153
-Croup154
-Infection155
-Kidney disease156
-Abcess157
-Bronchitis158
-Strep Throat159
-Allergies160
-Lupis161
+Strep Throat110
+Bladder Infection111
+Lupis112
+Swine Flu113
+Bronchitis114
+Chest pain115
+Cough116
+Stomach Bug117
+Bronchitis118
+Broken Bone119
+Lupis120
+Appendicitis121
+Constipation122
+Flu123
+Allergies124
+Blindness125
+Chicken pox126
+Bunions127
+Brain tumor128
+Pancreatitis129
+Chest pain130
+Kidney disease131
+Flu132
+Infection133
+Brain tumor134
+Allergies135
+Bronchitis136
+Strep Throat137
+Abcess138
+Chest pain139
+Allergies140
+Bronchitis141
+Broken Bone142
+Kidney disease143
+Constipation144
+Bunions145
+Flu146
+Croup147
+Brain tumor148
+Bladder Infection149
+Mono150
+Blindness151
+Mono152
+Lupis153
+Flu154
+Kidney disease155
+Influenza156
+Mono157
+Croup158
+ Cancer159
+Cough160
+Abcess161
 Kidney disease162
-Bunions163
-Blindness164
-Chicken pox165
-Influenza166
-Constipation167
-Allergies168
-Bronchitis169
-Flu170
-Lupis171
-Pnemonia172
-Swine Flu173
-Cold174
-Mono175
-Pancreatitis176
-Flu177
-Lupis178
-Bladder Infection179
-Constipation180
+Bladder Infection163
+Appendicitis164
+ Cancer165
+Blindness166
+Influenza167
+Lupis168
+Swine Flu169
+Bunions170
+Bladder Infection171
+Lupis172
+Allergies173
+Abcess174
+Chicken pox175
+Asthma176
+Bronchitis177
+Abcess178
+Flu179
+Chest pain180
 Asthma181
-Bladder Infection182
-Blindness183
-Broken Bone184
+Swine Flu182
+Swine Flu183
+Bunions184
 Constipation185
-Cold186
-Cold187
-Lupis188
-Croup189
-Strep Throat190
-Lupis191
-Bunions192
-Lupis193
-Brain tumor194
-Swine Flu195
-Kidney disease196
- Cancer197
-Infection198
-Blindness199
-Cough200
-Cough201
-Flu202
-Brain tumor203
+Kidney disease186
+Influenza187
+Strep Throat188
+ Cancer189
+Brain tumor190
+Bunions191
+Allergies192
+Broken Bone193
+Kidney disease194
+Strep Throat195
+Strep Throat196
+Bunions197
+Asthma198
+Bunions199
+Abcess200
+Brain tumor201
+Swine Flu202
+Stomach Bug203
 Chest pain204
 Stomach Bug205
-Abcess206
-Bunions207
-Pnemonia208
-Appendicitis209
-Abcess210
-Lupis211
-Bladder Infection212
-Infection213
-Pancreatitis214
-Broken Bone215
-Infection216
-Appendicitis217
-Croup218
-Croup219
-Mono220
-Cold221
-Pancreatitis222
-Bunions223
-Influenza224
-Pnemonia225
- Cancer226
-Cold227
-Constipation228
-Allergies229
-Broken Bone230
-Constipation231
-Flu232
-Influenza233
-Cough234
-Pancreatitis235
-Croup236
-Asthma237
-Brain tumor238
- Cancer239
-Bladder Infection240
-Infection241
-Kidney disease242
-Constipation243
-Flu244
-Allergies245
-Asthma246
-Croup247
-Croup248
-Abcess249
-Pnemonia250
-Appendicitis251
-Pancreatitis252
-Blindness253
-Flu254
-Allergies255
-Swine Flu256
-Strep Throat257
-Mono258
+Infection206
+Bronchitis207
+Pancreatitis208
+Lupis209
+Constipation210
+Allergies211
+Brain tumor212
+Bladder Infection213
+Bronchitis214
+Brain tumor215
+ Cancer216
+Abcess217
+Chicken pox218
+Constipation219
+Broken Bone220
+Cough221
+Broken Bone222
+Blindness223
+Mono224
+Lupis225
+Broken Bone226
+Pnemonia227
+Bladder Infection228
+Constipation229
+Infection230
+Cough231
+Chest pain232
+Pancreatitis233
+Abcess234
+Brain tumor235
+Pnemonia236
+Bronchitis237
+Mono238
+Asthma239
+Kidney disease240
+Swine Flu241
+Influenza242
+Allergies243
+Swine Flu244
+Croup245
+Allergies246
+Constipation247
+Stomach Bug248
+Brain tumor249
+Kidney disease250
+Constipation251
+Lupis252
+Pancreatitis253
+Chicken pox254
+Asthma255
+Asthma256
+Flu257
+Broken Bone258
 Chest pain259
-Kidney disease260
-Abcess261
-Appendicitis262
-Asthma263
-Chicken pox264
- Cancer265
-Bunions266
-Lupis267
- Cancer268
-Bladder Infection269
-Kidney disease270
-Pancreatitis271
-Croup272
-Kidney disease273
-Lupis274
+Stomach Bug260
+Stomach Bug261
+Broken Bone262
+Allergies263
+Cough264
+Kidney disease265
+Infection266
+Broken Bone267
+Abcess268
+Lupis269
+Bronchitis270
+Strep Throat271
+Kidney disease272
+Chest pain273
+Chicken pox274
 Strep Throat275
-Mono276
-Cough277
-Mono278
-Cough279
-Kidney disease280
-Bunions281
- Cancer282
-Pnemonia283
-Lupis284
-Croup285
- Cancer286
-Chicken pox287
-Stomach Bug288
-Mono289
-Bunions290
-Broken Bone291
-Influenza292
-Pnemonia293
-Bronchitis294
-Cough295
-Mono296
-Infection297
-Lupis298
- Cancer299
-Constipation300
-Blindness301
-Chicken pox302
-Chest pain303
-Swine Flu304
-Cough305
-Pnemonia306
-Brain tumor307
-Brain tumor308
+Influenza276
+Influenza277
+Cold278
+Bunions279
+Allergies280
+Mono281
+Mono282
+Stomach Bug283
+Brain tumor284
+Chicken pox285
+Pancreatitis286
+Lupis287
+Bronchitis288
+Chest pain289
+Croup290
+Cold291
+Mono292
+Chicken pox293
+Pancreatitis294
+Mono295
+Abcess296
+Chicken pox297
+Infection298
+Appendicitis299
+Brain tumor300
+Chicken pox301
+Abcess302
+Croup303
+Chicken pox304
+ Cancer305
+Bladder Infection306
+Chest pain307
+Lupis308
 Cough309
-Strep Throat310
-Cold311
-Strep Throat312
-Broken Bone313
-Broken Bone314
-Broken Bone315
-Appendicitis316
-Constipation317
-Bunions318
-Bunions319
-Bunions320
-Strep Throat321
-Infection322
-Strep Throat323
-Stomach Bug324
-Bunions325
-Stomach Bug326
-Bunions327
-Bladder Infection328
-Stomach Bug329
-Bladder Infection330
-Cold331
- Cancer332
-Bronchitis333
-Constipation334
-Infection335
-Brain tumor336
-Flu337
-Lupis338
- Cancer339
-Abcess340
-Blindness341
+Chicken pox310
+Infection311
+Cold312
+Allergies313
+Chest pain314
+Flu315
+Cough316
+Lupis317
+Lupis318
+Bladder Infection319
+Croup320
+Bronchitis321
+Blindness322
+Cold323
+Swine Flu324
+Pnemonia325
+Swine Flu326
+Asthma327
+Bunions328
+Pancreatitis329
+Abcess330
+Lupis331
+Bunions332
+Cough333
+Blindness334
+Pnemonia335
+Cold336
+Bladder Infection337
+Chest pain338
+Brain tumor339
+Cold340
+Bunions341
 Croup342
-Flu343
-Swine Flu344
-Constipation345
-Appendicitis346
-Flu347
-Lupis348
-Lupis349
-Croup350
-Infection351
-Asthma352
-Pnemonia353
-Abcess354
-Influenza355
-Flu356
-Pancreatitis357
-Influenza358
-Bunions359
-Pancreatitis360
-Stomach Bug361
-Chest pain362
-Mono363
-Broken Bone364
-Bunions365
-Appendicitis366
-Bronchitis367
-Bladder Infection368
-Infection369
-Bronchitis370
-Cold371
-Stomach Bug372
-Swine Flu373
- Cancer374
-Mono375
-Allergies376
-Influenza377
-Bronchitis378
-Bronchitis379
-Bladder Infection380
-Abcess381
-Bronchitis382
-Mono383
-Blindness384
-Broken Bone385
-Brain tumor386
-Constipation387
-Appendicitis388
-Strep Throat389
-Bladder Infection390
-Pnemonia391
-Bunions392
-Influenza393
-Asthma394
- Cancer395
-Mono396
-Allergies397
-Broken Bone398
-Bladder Infection399
-Lupis400
-Cough401
-Infection402
-Abcess403
-Croup404
-Allergies405
-Strep Throat406
-Brain tumor407
-Pancreatitis408
-Broken Bone409
- Cancer410
-Abcess411
-Chicken pox412
-Appendicitis413
-Cold414
-Brain tumor415
-Pnemonia416
-Brain tumor417
-Appendicitis418
-Blindness419
-Cough420
-Influenza421
-Strep Throat422
-Pnemonia423
-Cold424
-Blindness425
-Blindness426
-Strep Throat427
-Appendicitis428
-Chest pain429
-Swine Flu430
-Stomach Bug431
-Stomach Bug432
-Constipation433
-Mono434
-Flu435
-Stomach Bug436
-Bunions437
-Stomach Bug438
-Flu439
-Abcess440
-Abcess441
-Chicken pox442
-Lupis443
-Blindness444
-Constipation445
-Swine Flu446
-Broken Bone447
-Croup448
-Bronchitis449
-Pancreatitis450
-Kidney disease451
-Infection452
- Cancer453
- Cancer454
-Influenza455
-Constipation456
-Flu457
-Asthma458
- Cancer459
-Bunions460
-Chicken pox461
-Flu462
-Chicken pox463
-Chest pain464
-Infection465
-Flu466
-Lupis467
-Strep Throat468
-Chest pain469
-Mono470
-Allergies471
-Flu472
-Stomach Bug473
-Croup474
-Abcess475
-Appendicitis476
-Pnemonia477
-Allergies478
-Swine Flu479
-Stomach Bug480
-Swine Flu481
-Bunions482
-Lupis483
-Infection484
-Mono485
-Cold486
+Bunions343
+Cold344
+Pnemonia345
+Bunions346
+Pancreatitis347
+Influenza348
+Allergies349
+Influenza350
+Broken Bone351
+Allergies352
+Constipation353
+Cold354
+Chicken pox355
+Chest pain356
+Cough357
+Lupis358
+Lupis359
+Cold360
+Mono361
+Swine Flu362
+Abcess363
+Stomach Bug364
+ Cancer365
+Cold366
+Constipation367
+Allergies368
+Lupis369
+Mono370
+Constipation371
+Influenza372
+Mono373
+Pancreatitis374
+Kidney disease375
+Cough376
+Pnemonia377
+Brain tumor378
+Abcess379
+Strep Throat380
+Kidney disease381
+Cough382
+Kidney disease383
+Pnemonia384
+Stomach Bug385
+Bladder Infection386
+Swine Flu387
+Infection388
+Abcess389
+Bunions390
+ Cancer391
+Swine Flu392
+Infection393
+Strep Throat394
+Croup395
+Influenza396
+Mono397
+Strep Throat398
+Cold399
+Allergies400
+Abcess401
+Kidney disease402
+Constipation403
+ Cancer404
+Brain tumor405
+Cold406
+Pnemonia407
+Swine Flu408
+Constipation409
+Chest pain410
+Influenza411
+Chest pain412
+Asthma413
+Allergies414
+Allergies415
+Pancreatitis416
+Cough417
+Chicken pox418
+Chicken pox419
+ Cancer420
+Asthma421
+Pancreatitis422
+Blindness423
+Chest pain424
+Influenza425
+Infection426
+Influenza427
+Abcess428
+Pnemonia429
+Pancreatitis430
+Allergies431
+Mono432
+Pnemonia433
+Asthma434
+Allergies435
+Appendicitis436
+Constipation437
+Flu438
+Stomach Bug439
+Stomach Bug440
+Bunions441
+Bladder Infection442
+Brain tumor443
+ Cancer444
+Brain tumor445
+Cold446
+Strep Throat447
+Pnemonia448
+Pnemonia449
+Abcess450
+Asthma451
+Constipation452
+Bunions453
+Chicken pox454
+Blindness455
+Cough456
+Chicken pox457
+Broken Bone458
+Croup459
+Blindness460
+Lupis461
+Bronchitis462
+Bronchitis463
+Strep Throat464
+Abcess465
+Swine Flu466
+Strep Throat467
+Swine Flu468
+Influenza469
+Pnemonia470
+Cough471
+Chicken pox472
+Appendicitis473
+Stomach Bug474
+Bladder Infection475
+Swine Flu476
+Stomach Bug477
+Brain tumor478
+Influenza479
+Cold480
+Bunions481
+Croup482
+Allergies483
+Mono484
+Abcess485
+Blindness486
 Bladder Infection487
-Stomach Bug488
-Cold489
-Swine Flu490
-Bunions491
-Constipation492
-Blindness493
-Bunions494
-Chicken pox495
-Bunions496
-Blindness497
-Abcess498
-Croup499
-Constipation500
-Appendicitis501
-Cold502
-Lupis503
-Cough504
-Asthma505
-Strep Throat506
-Infection507
- Cancer508
-Brain tumor509
-Constipation510
-Brain tumor511
-Appendicitis512
-Croup513
-Croup514
-Lupis515
-Strep Throat516
-Bladder Infection517
-Influenza518
-Bladder Infection519
-Cough520
-Flu521
-Mono522
-Cough523
-Mono524
-Constipation525
-Broken Bone526
-Appendicitis527
-Cough528
-Broken Bone529
-Blindness530
-Bunions531
-Infection532
-Flu533
-Stomach Bug534
-Broken Bone535
- Cancer536
-Appendicitis537
+Cold488
+Pnemonia489
+Bladder Infection490
+Abcess491
+Mono492
+Chicken pox493
+Cough494
+Lupis495
+Swine Flu496
+Brain tumor497
+Constipation498
+Mono499
+Appendicitis500
+Lupis501
+Influenza502
+Kidney disease503
+Flu504
+Swine Flu505
+Lupis506
+Pancreatitis507
+Kidney disease508
+Bunions509
+Influenza510
+Allergies511
+Influenza512
+Pnemonia513
+Chest pain514
+Influenza515
+Allergies516
+Pnemonia517
+Cold518
+Chest pain519
+ Cancer520
+Brain tumor521
+Pancreatitis522
+Appendicitis523
+Influenza524
+Strep Throat525
+Abcess526
+Abcess527
+Swine Flu528
+Croup529
+Appendicitis530
+Brain tumor531
+Strep Throat532
+Stomach Bug533
+Allergies534
+Brain tumor535
+Flu536
+Mono537
 Flu538
-Bunions539
-Bladder Infection540
-Bronchitis541
-Influenza542
-Bunions543
-Infection544
-Chicken pox545
-Pancreatitis546
-Swine Flu547
-Appendicitis548
+Mono539
+Bunions540
+Bunions541
+Strep Throat542
+ Cancer543
+Pnemonia544
+Influenza545
+Bunions546
+Brain tumor547
+ Cancer548
 Chest pain549
-Cold550
+Bunions550
 Asthma551
-Swine Flu552
-Asthma553
-Chest pain554
-Constipation555
-Pancreatitis556
-Stomach Bug557
-Broken Bone558
-Cold559
-Asthma560
-Cold561
-Pnemonia562
-Mono563
-Appendicitis564
-Mono565
-Pnemonia566
-Swine Flu567
-Croup568
-Broken Bone569
-Allergies570
-Constipation571
-Influenza572
-Appendicitis573
-Broken Bone574
-Flu575
-Mono576
-Bunions577
-Swine Flu578
-Bronchitis579
-Chicken pox580
-Mono581
-Swine Flu582
-Flu583
-Influenza584
-Asthma585
-Pnemonia586
-Broken Bone587
-Swine Flu588
-Allergies589
- Cancer590
-Chicken pox591
-Croup592
-Lupis593
+Bronchitis552
+Cold553
+Flu554
+Strep Throat555
+Brain tumor556
+Pancreatitis557
+Bronchitis558
+Constipation559
+Broken Bone560
+Constipation561
+ Cancer562
+Flu563
+Brain tumor564
+Allergies565
+Constipation566
+Influenza567
+Asthma568
+Asthma569
+ Cancer570
+Abcess571
+Allergies572
+Flu573
+ Cancer574
+Bladder Infection575
+Bunions576
+Abcess577
+Bladder Infection578
+Swine Flu579
+Blindness580
+Croup581
+Strep Throat582
+Lupis583
+Bunions584
+Kidney disease585
+Influenza586
+Croup587
+Blindness588
+Chicken pox589
+Appendicitis590
+Appendicitis591
+Abcess592
+Brain tumor593
  Cancer594
-Influenza595
-Croup596
-Strep Throat597
-Appendicitis598
-Appendicitis599
-Strep Throat600
-Infection601
-Pancreatitis602
-Swine Flu603
-Cough604
-Bunions605
-Brain tumor606
-Asthma607
-Blindness608
-Cold609
-Broken Bone610
-Brain tumor611
-Appendicitis612
-Pancreatitis613
-Chicken pox614
-Allergies615
-Constipation616
-Swine Flu617
+Bronchitis595
+Kidney disease596
+Chest pain597
+Influenza598
+Bladder Infection599
+Asthma600
+Influenza601
+Influenza602
+Croup603
+Croup604
+Bladder Infection605
+Chest pain606
+Cough607
+Brain tumor608
+Blindness609
+Cold610
+Stomach Bug611
+Bladder Infection612
+Cold613
+Brain tumor614
+Swine Flu615
+Mono616
+Cold617
 Pnemonia618
-Bunions619
-Broken Bone620
-Strep Throat621
-Bronchitis622
-Bronchitis623
-Mono624
-Bronchitis625
-Bunions626
-Flu627
-Blindness628
-Abcess629
-Bronchitis630
-Mono631
-Abcess632
-Chest pain633
-Pancreatitis634
-Croup635
-Chicken pox636
-Lupis637
+Broken Bone619
+Cough620
+Croup621
+Cough622
+Cough623
+Chicken pox624
+Brain tumor625
+Croup626
+Asthma627
+Chicken pox628
+Cold629
+Pancreatitis630
+Croup631
+Cough632
+Kidney disease633
+Flu634
+Pancreatitis635
+Cold636
+Chicken pox637
 Bladder Infection638
-Stomach Bug639
-Broken Bone640
-Broken Bone641
-Bladder Infection642
-Strep Throat643
-Bronchitis644
-Mono645
-Bladder Infection646
- Cancer647
-Flu648
-Blindness649
-Swine Flu650
-Broken Bone651
-Bunions652
+Broken Bone639
+Blindness640
+Blindness641
+Asthma642
+Constipation643
+Mono644
+Bronchitis645
+Stomach Bug646
+Kidney disease647
+Cough648
+Bunions649
+Blindness650
+Strep Throat651
+Cold652
 Chicken pox653
-Strep Throat654
-Pnemonia655
-Abcess656
-Bunions657
-Blindness658
-Brain tumor659
-Bunions660
-Asthma661
-Mono662
-Croup663
-Blindness664
-Cold665
-Croup666
- Cancer667
-Brain tumor668
-Blindness669
-Swine Flu670
-Influenza671
-Kidney disease672
-Strep Throat673
-Strep Throat674
-Flu675
-Broken Bone676
-Chest pain677
-Swine Flu678
-Cough679
-Bladder Infection680
-Constipation681
-Bunions682
-Bladder Infection683
-Cough684
-Abcess685
-Bronchitis686
-Broken Bone687
-Mono688
-Abcess689
-Bladder Infection690
-Bunions691
-Brain tumor692
-Allergies693
+Asthma654
+ Cancer655
+Croup656
+ Cancer657
+Bunions658
+Lupis659
+Flu660
+Pnemonia661
+Kidney disease662
+Bladder Infection663
+Swine Flu664
+Strep Throat665
+Brain tumor666
+Kidney disease667
+Blindness668
+Appendicitis669
+Brain tumor670
+Abcess671
+Abcess672
+Asthma673
+Cough674
+Allergies675
+Influenza676
+Bunions677
+Chest pain678
+Blindness679
+Abcess680
+Bunions681
+Chicken pox682
+Broken Bone683
+Allergies684
+Pancreatitis685
+Pancreatitis686
+Allergies687
+Appendicitis688
+Cold689
+Brain tumor690
+Cough691
+Influenza692
+Blindness693
 Chicken pox694
-Croup695
-Flu696
-Bladder Infection697
-Bunions698
-Influenza699
-Swine Flu700
-Broken Bone701
-Infection702
-Chest pain703
-Mono704
-Pnemonia705
- Cancer706
-Bladder Infection707
-Asthma708
-Broken Bone709
-Bladder Infection710
-Broken Bone711
-Bladder Infection712
-Constipation713
-Allergies714
-Strep Throat715
-Allergies716
-Mono717
-Swine Flu718
-Infection719
-Allergies720
-Swine Flu721
-Infection722
-Bronchitis723
-Pnemonia724
-Abcess725
-Constipation726
-Brain tumor727
-Appendicitis728
-Allergies729
-Mono730
-Bunions731
-Cold732
-Flu733
-Croup734
-Broken Bone735
- Cancer736
-Brain tumor737
-Croup738
-Influenza739
-Asthma740
-Bronchitis741
-Swine Flu742
-Chest pain743
-Pancreatitis744
-Pancreatitis745
-Flu746
- Cancer747
-Appendicitis748
-Infection749
-Swine Flu750
-Cough751
-Cold752
-Strep Throat753
-Influenza754
-Bladder Infection755
-Swine Flu756
- Cancer757
-Pancreatitis758
-Strep Throat759
+Cold695
+Swine Flu696
+Influenza697
+Allergies698
+Lupis699
+Chicken pox700
+ Cancer701
+Bunions702
+ Cancer703
+Chicken pox704
+Appendicitis705
+Cough706
+Constipation707
+Stomach Bug708
+Flu709
+Broken Bone710
+Lupis711
+Infection712
+Bronchitis713
+Bunions714
+Lupis715
+Asthma716
+Chicken pox717
+Chicken pox718
+Constipation719
+Asthma720
+Broken Bone721
+Mono722
+Appendicitis723
+Broken Bone724
+Pancreatitis725
+Chest pain726
+Broken Bone727
+Chicken pox728
+Lupis729
+Abcess730
+Stomach Bug731
+Pancreatitis732
+Brain tumor733
+ Cancer734
+Stomach Bug735
+Chicken pox736
+Stomach Bug737
+Infection738
+Cough739
+Strep Throat740
+Flu741
+Lupis742
+Mono743
+Bladder Infection744
+Brain tumor745
+Appendicitis746
+Asthma747
+Allergies748
+Croup749
+Chest pain750
+Blindness751
+Bladder Infection752
+Kidney disease753
+Blindness754
+Cold755
+Bronchitis756
+Brain tumor757
+Lupis758
+Cough759
 Broken Bone760
-Allergies761
-Appendicitis762
-Blindness763
-Appendicitis764
-Asthma765
-Asthma766
-Pnemonia767
-Bladder Infection768
-Asthma769
-Chicken pox770
-Cold771
-Broken Bone772
-Influenza773
-Cold774
-Chest pain775
-Croup776
-Bladder Infection777
-Asthma778
-Kidney disease779
-Asthma780
-Influenza781
-Cough782
-Strep Throat783
-Swine Flu784
-Kidney disease785
-Bronchitis786
-Strep Throat787
+Chicken pox761
+Croup762
+Influenza763
+Stomach Bug764
+Infection765
+Cold766
+Bladder Infection767
+Chicken pox768
+Bronchitis769
+Cold770
+Infection771
+Kidney disease772
+Bladder Infection773
+Lupis774
+Mono775
+Influenza776
+Brain tumor777
+Influenza778
+Brain tumor779
+Allergies780
+Pnemonia781
+Swine Flu782
+Influenza783
+Lupis784
+Cough785
+Bladder Infection786
+Infection787
 Bladder Infection788
-Pnemonia789
-Pnemonia790
- Cancer791
-Brain tumor792
-Chest pain793
-Chicken pox794
-Cough795
-Strep Throat796
-Kidney disease797
-Bronchitis798
-Chicken pox799
-Strep Throat800
-Pancreatitis801
-Influenza802
-Stomach Bug803
-Bronchitis804
-Appendicitis805
-Appendicitis806
-Infection807
-Appendicitis808
-Blindness809
-Chest pain810
-Pnemonia811
-Brain tumor812
-Blindness813
-Chest pain814
-Appendicitis815
-Kidney disease816
-Chest pain817
- Cancer818
-Infection819
-Strep Throat820
-Strep Throat821
-Allergies822
-Lupis823
-Infection824
-Abcess825
-Swine Flu826
-Constipation827
-Chest pain828
+Stomach Bug789
+Constipation790
+Kidney disease791
+Broken Bone792
+Chicken pox793
+Cough794
+Abcess795
+Infection796
+Broken Bone797
+Abcess798
+Bronchitis799
+Swine Flu800
+Chicken pox801
+Appendicitis802
+Brain tumor803
+Appendicitis804
+Mono805
+Flu806
+Stomach Bug807
+Bladder Infection808
+Chest pain809
+Bronchitis810
+Abcess811
+Mono812
+Allergies813
+Lupis814
+Blindness815
+Bladder Infection816
+Pnemonia817
+Broken Bone818
+Blindness819
+Pancreatitis820
+Mono821
+ Cancer822
+Cough823
+Pancreatitis824
+Stomach Bug825
+Cold826
+Allergies827
+Pnemonia828
 Bunions829
-Infection830
-Influenza831
-Broken Bone832
-Lupis833
-Brain tumor834
-Blindness835
-Flu836
-Cold837
-Croup838
-Appendicitis839
+Kidney disease830
+Kidney disease831
+Strep Throat832
+Bladder Infection833
+Strep Throat834
+Cold835
+Appendicitis836
+Constipation837
+Bunions838
+Abcess839
 Allergies840
-Pnemonia841
- Cancer842
-Bunions843
-Bladder Infection844
-Cold845
-Strep Throat846
-Abcess847
-Asthma848
-Strep Throat849
-Croup850
-Influenza851
- Cancer852
+Cough841
+Stomach Bug842
+Stomach Bug843
+Appendicitis844
+Mono845
+Mono846
+Cold847
+ Cancer848
+Pnemonia849
+Abcess850
+Asthma851
+Cough852
 Croup853
-Cough854
-Infection855
-Pancreatitis856
-Swine Flu857
-Mono858
+Bronchitis854
+Flu855
+Chicken pox856
+Constipation857
+Bunions858
 Mono859
-Infection860
-Blindness861
-Mono862
-Mono863
-Lupis864
-Lupis865
-Broken Bone866
-Strep Throat867
-Pancreatitis868
-Kidney disease869
-Cough870
-Asthma871
-Appendicitis872
-Brain tumor873
-Mono874
- Cancer875
-Blindness876
-Asthma877
-Bronchitis878
-Brain tumor879
-Lupis880
-Cold881
-Bronchitis882
-Pnemonia883
-Brain tumor884
-Broken Bone885
- Cancer886
-Flu887
-Asthma888
-Broken Bone889
-Chicken pox890
-Infection891
-Stomach Bug892
-Blindness893
-Lupis894
-Chicken pox895
- Cancer896
-Allergies897
-Stomach Bug898
-Croup899
-Flu900
-Bronchitis901
-Chicken pox902
- Cancer903
-Pnemonia904
+Brain tumor860
+Pancreatitis861
+Kidney disease862
+Kidney disease863
+Appendicitis864
+Chest pain865
+Bunions866
+Appendicitis867
+ Cancer868
+Broken Bone869
+Bladder Infection870
+Mono871
+Pancreatitis872
+Cough873
+Pnemonia874
+Infection875
+Bladder Infection876
+ Cancer877
+Flu878
+Kidney disease879
+Appendicitis880
+Chest pain881
+Constipation882
+Croup883
+Cough884
+Brain tumor885
+Bronchitis886
+ Cancer887
+Stomach Bug888
+Swine Flu889
+Kidney disease890
+Appendicitis891
+Lupis892
+ Cancer893
+Croup894
+Pancreatitis895
+Brain tumor896
+Infection897
+Appendicitis898
+Cold899
+Croup900
+Allergies901
+Asthma902
+Influenza903
+Constipation904
 Chest pain905
-Infection906
-Swine Flu907
-Cold908
-Pancreatitis909
- Cancer910
-Chest pain911
-Bronchitis912
-Lupis913
-Mono914
-Broken Bone915
-Strep Throat916
-Constipation917
-Influenza918
-Appendicitis919
-Blindness920
-Constipation921
-Cough922
-Asthma923
-Flu924
-Bronchitis925
-Kidney disease926
-Influenza927
-Bronchitis928
-Swine Flu929
-Asthma930
-Lupis931
-Stomach Bug932
-Strep Throat933
-Stomach Bug934
-Abcess935
-Abcess936
-Lupis937
-Pnemonia938
-Stomach Bug939
-Kidney disease940
+Lupis906
+Cold907
+ Cancer908
+Broken Bone909
+Bronchitis910
+Asthma911
+Bladder Infection912
+Flu913
+Lupis914
+Abcess915
+Stomach Bug916
+Stomach Bug917
+Cough918
+Bronchitis919
+Constipation920
+Lupis921
+Flu922
+Bunions923
+Asthma924
+Lupis925
+Pnemonia926
+Broken Bone927
+ Cancer928
+Kidney disease929
+Broken Bone930
+Pancreatitis931
+Swine Flu932
+Swine Flu933
+Bunions934
+Brain tumor935
+Blindness936
+Swine Flu937
+Swine Flu938
+Appendicitis939
+Bronchitis940
 Stomach Bug941
-Infection942
-Lupis943
-Asthma944
-Mono945
-Mono946
- Cancer947
-Bronchitis948
-Chest pain949
-Swine Flu950
-Asthma951
-Chest pain952
-Abcess953
-Bladder Infection954
-Stomach Bug955
-Flu956
-Abcess957
-Bladder Infection958
-Pnemonia959
-Blindness960
-Pnemonia961
-Blindness962
-Allergies963
-Asthma964
-Broken Bone965
-Bladder Infection966
- Cancer967
-Influenza968
-Infection969
-Abcess970
-Bronchitis971
-Influenza972
-Cold973
-Kidney disease974
-Lupis975
-Influenza976
-Croup977
-Blindness978
-Cold979
-Croup980
-Flu981
-Chest pain982
-Asthma983
-Blindness984
-Pancreatitis985
-Kidney disease986
+Bronchitis942
+Bunions943
+Allergies944
+Abcess945
+Stomach Bug946
+Stomach Bug947
+Pnemonia948
+Swine Flu949
+Flu950
+Mono951
+Lupis952
+Croup953
+Cough954
+Cough955
+Kidney disease956
+Stomach Bug957
+Bronchitis958
+Stomach Bug959
+Stomach Bug960
+Blindness961
+Flu962
+Infection963
+Allergies964
+Appendicitis965
+Asthma966
+Constipation967
+Brain tumor968
+Abcess969
+Strep Throat970
+Allergies971
+Cough972
+Flu973
+Brain tumor974
+Constipation975
+Bunions976
+Broken Bone977
+Croup978
+Brain tumor979
+Mono980
+Appendicitis981
+Flu982
+Bunions983
+Constipation984
+Blindness985
+Asthma986
 Lupis987
-Appendicitis988
-Stomach Bug989
-Constipation990
-Cough991
+Kidney disease988
+Mono989
+Cough990
+Croup991
 Broken Bone992
 Cold993
-Swine Flu994
-Influenza995
-Blindness996
-Swine Flu997
-Mono998
-Flu999
+Bunions994
+Broken Bone995
+Bladder Infection996
+Bladder Infection997
+Bladder Infection998
+Croup999

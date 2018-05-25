@@ -11,6 +11,7 @@ public class DataGenerator {
     int numTreatments = 750;
     int doctors[] = new int[numDoctors];
     int patients[] = new int[numPatients];
+    String patientDoctors[] = new String[35];
     String treatments[] = new String[numTreatments];
     String illnesses[] = new String[numIllnesses];
     String fullName;
@@ -44,12 +45,15 @@ public class DataGenerator {
 
       for (int i = 1 ; i <= numDoctors; i++) {
         dID = Integer.toString(i) ;// ID
-        fname = names[generator.nextInt(names.length)];// First name
+        fname = "Dr. " + names[generator.nextInt(names.length)];// First name
         lname = lnames[generator.nextInt(lnames.length)] ;
 
-	    tuple = dID + ", " + fname + ", " + lname + "\n";
+	    tuple = dID + ", " + fname + ", " + lname + "\n" ;
 
 	    doctors[i-1] = i;
+	    if (i < (.35 * numDoctors)) {
+	        patientDoctors[i-1] = fname + ", " + lname + "\n" ;
+	    }
   	
         bw.write(tuple) ;
         if (nameCount == names.length - 1){
@@ -75,6 +79,12 @@ public class DataGenerator {
       	    patients[i-1] = i;
 
               bw.write(tuple) ;
+            }
+
+            for (int i = 0; i < patientDoctors.length -1; i++){
+                pID = Integer.toString(i + numPatients + 1);
+                tuple = pID + "," + patientDoctors[i];
+                bw.write(tuple);
             }
             bw.close() ;
 
@@ -115,16 +125,20 @@ public class DataGenerator {
           int doc2;
           int doc3;
 
-          for (int i = 0; i < numPatients; i++){
+          for (int i = 0; i < numPatients + (.35 * numDoctors) -1; i++){
             doc1 = doctors[generator.nextInt(doctors.length)];
             doc2 = doctors[generator.nextInt(doctors.length)];
             doc3 = doctors[generator.nextInt(doctors.length)];
 
             if (doc1 == doc2) {
-                doc2 ++;
+                if (doc2 + 1 < doctors.length){
+                    doc2 ++;
+                } else { doc2 --;}
             }
             if (doc2 == doc3){
-                doc3 ++;
+                if (doc3 + 2 < doctors.length) {
+                    doc3 += 2;
+                } else { doc3 -= 2;}
             }
 
             pID = Integer.toString(i + 1);
@@ -158,7 +172,7 @@ public class DataGenerator {
           int tran1, tran2, tran3, iran1, iran2, iran3;
 
 
-          for (int i = 0; i < numPatients; i++){
+          for (int i = 0; i < numPatients + (.35 * numDoctors) -1; i++){
             tran1 = generator.nextInt(treatments.length);
             tran2 = generator.nextInt(treatments.length);
             tran3 = generator.nextInt(treatments.length);
@@ -213,6 +227,9 @@ public class DataGenerator {
                 }
           }
           bw.close();
+
+       // Doctors have 35% chance of being a patient
+
 
 
     }

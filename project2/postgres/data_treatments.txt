@@ -1,750 +1,750 @@
-Follow up0
-Chemotherapy1
-Follow up2
-X-rays3
-Allergy Medicine4
-Blood work5
-Physical Therapy6
-Rehab7
-Psychotherapy8
-Surgery9
-Blood work10
-Prespription drug11
-Better Diet12
-Chemotherapy13
-Allergy Medicine14
-Specialist15
-Physical Therapy16
-Prespription drug17
-Antibiotics18
-Chemotherapy19
-Counseling20
-Chemotherapy21
-Allergy Medicine22
-Blood work23
-Rehab24
-Specialist25
-Better Diet26
-Physical Therapy27
-Rehab28
-Lasik29
+Antibiotics0
+Rehab1
+Psychotherapy2
+Vaccine3
+Psychotherapy4
+EKG5
+Follow up6
+Allergy Medicine7
+Counseling8
+Better Diet9
+Medicine10
+Counseling11
+EKG12
+Rest13
+EKG14
+Rest15
+EKG16
+Surgery17
+Physical Therapy18
+Specialist19
+Physical Therapy20
+Rehab21
+Antibiotics22
+Rest23
+Psychotherapy24
+Vaccine25
+Surgery26
+Rehab27
+Medicine28
+Medicine29
 Antibiotics30
-Chemotherapy31
-EKG32
-Blood work33
-Medicine34
-Rest35
-Follow up36
-Chemotherapy37
-Specialist38
-Psychotherapy39
-Physical Therapy40
-Follow up41
-Rehab42
-Follow up43
-Rest44
-Lasik45
-Vaccine46
-EKG47
-Blood work48
-Physical Therapy49
-Follow up50
+Medicine31
+Antibiotics32
+Prespription drug33
+Prespription drug34
+Lasik35
+Rehab36
+Surgery37
+Follow up38
+Physical Therapy39
+Follow up40
+Psychotherapy41
+Chemotherapy42
+Rest43
+Specialist44
+X-rays45
+Psychotherapy46
+Surgery47
+Counseling48
+Rehab49
+Vaccine50
 Rest51
-Vaccine52
-Medicine53
+Allergy Medicine52
+Surgery53
 Follow up54
-Surgery55
-Blood work56
-Blood work57
-Prespription drug58
-Rest59
-Rehab60
-EKG61
-Allergy Medicine62
-Physical Therapy63
-Counseling64
-Counseling65
-Antibiotics66
-Rehab67
-Antibiotics68
-EKG69
-Lasik70
-Follow up71
-Allergy Medicine72
-Blood work73
-Allergy Medicine74
-Counseling75
-Prespription drug76
-Surgery77
-Vaccine78
-Chemotherapy79
-Follow up80
-Allergy Medicine81
-Allergy Medicine82
-Rehab83
-Specialist84
-Surgery85
-Follow up86
-Chemotherapy87
-Surgery88
-Blood work89
-Specialist90
-Physical Therapy91
-Blood work92
-EKG93
-Psychotherapy94
-Vaccine95
-Prespription drug96
-Lasik97
-Chemotherapy98
-Physical Therapy99
-Chemotherapy100
-Vaccine101
-Chemotherapy102
-Rehab103
-EKG104
-Vaccine105
-Counseling106
-Specialist107
-Lasik108
-Surgery109
-X-rays110
-Specialist111
-Blood work112
-Follow up113
-Rest114
-Medicine115
-Physical Therapy116
-Better Diet117
-Rest118
-X-rays119
-Better Diet120
-Prespription drug121
-Lasik122
-Prespription drug123
-Medicine124
-X-rays125
-Rehab126
-Rest127
-Surgery128
-Rest129
-Blood work130
-Vaccine131
-EKG132
-Surgery133
-Antibiotics134
-Surgery135
-Follow up136
-Allergy Medicine137
-Lasik138
-Lasik139
-Medicine140
-Better Diet141
-Psychotherapy142
-Vaccine143
-Chemotherapy144
-Follow up145
-Rehab146
-Blood work147
-EKG148
-Follow up149
-Vaccine150
-EKG151
-Better Diet152
-Specialist153
-Surgery154
-Rest155
-Vaccine156
-Antibiotics157
-Chemotherapy158
-Blood work159
-Specialist160
-Allergy Medicine161
-X-rays162
-Chemotherapy163
-Better Diet164
+Rest55
+Rest56
+Vaccine57
+Chemotherapy58
+Blood work59
+Lasik60
+Medicine61
+Follow up62
+Follow up63
+Better Diet64
+Physical Therapy65
+Lasik66
+Surgery67
+Medicine68
+Rest69
+Follow up70
+Chemotherapy71
+Better Diet72
+Psychotherapy73
+Blood work74
+Antibiotics75
+Chemotherapy76
+Antibiotics77
+Better Diet78
+Rehab79
+Prespription drug80
+EKG81
+Rest82
+Vaccine83
+Lasik84
+Medicine85
+Counseling86
+Antibiotics87
+Counseling88
+Better Diet89
+Counseling90
+Rest91
+Lasik92
+Surgery93
+Physical Therapy94
+Better Diet95
+Surgery96
+Rehab97
+Vaccine98
+Follow up99
+Counseling100
+Counseling101
+Follow up102
+Better Diet103
+Rest104
+Follow up105
+Antibiotics106
+Counseling107
+Prespription drug108
+Counseling109
+Rehab110
+Rehab111
+Medicine112
+Surgery113
+Antibiotics114
+Prespription drug115
+Rehab116
+Rest117
+Chemotherapy118
+Lasik119
+Follow up120
+X-rays121
+Vaccine122
+Vaccine123
+Antibiotics124
+Rest125
+Surgery126
+Medicine127
+Antibiotics128
+Vaccine129
+Chemotherapy130
+Surgery131
+Specialist132
+Allergy Medicine133
+Specialist134
+Rest135
+Rest136
+Surgery137
+Follow up138
+Chemotherapy139
+Rest140
+Lasik141
+Medicine142
+Allergy Medicine143
+Vaccine144
+Better Diet145
+Rest146
+Chemotherapy147
+Lasik148
+Counseling149
+Rest150
+Chemotherapy151
+Chemotherapy152
+Chemotherapy153
+Rest154
+Better Diet155
+Medicine156
+Follow up157
+X-rays158
+Counseling159
+Physical Therapy160
+Lasik161
+Follow up162
+Rest163
+EKG164
 Physical Therapy165
-Medicine166
-Psychotherapy167
-Surgery168
-Physical Therapy169
-Surgery170
-X-rays171
-Physical Therapy172
-X-rays173
-Chemotherapy174
-EKG175
-Better Diet176
-Surgery177
-X-rays178
-Rest179
-Better Diet180
-Vaccine181
-Blood work182
-Lasik183
-Blood work184
-EKG185
-Vaccine186
-X-rays187
-Psychotherapy188
-Antibiotics189
-Medicine190
+Prespription drug166
+Prespription drug167
+Medicine168
+EKG169
+Counseling170
+Prespription drug171
+Antibiotics172
+Allergy Medicine173
+Allergy Medicine174
+Chemotherapy175
+Antibiotics176
+Rehab177
+Lasik178
+Blood work179
+Lasik180
+Physical Therapy181
+X-rays182
+Surgery183
+Lasik184
+Rest185
+Blood work186
+Blood work187
+Specialist188
+Allergy Medicine189
+X-rays190
 Physical Therapy191
-EKG192
-Blood work193
-Rehab194
-Follow up195
-Specialist196
-Specialist197
-Physical Therapy198
-Blood work199
-Blood work200
-Antibiotics201
-Chemotherapy202
-Rest203
-Blood work204
-Physical Therapy205
-Blood work206
-Counseling207
-Specialist208
-Lasik209
-Counseling210
-Chemotherapy211
-Counseling212
-Lasik213
-Follow up214
-Medicine215
-Chemotherapy216
-Better Diet217
-Rest218
-Lasik219
-Medicine220
-Physical Therapy221
-Vaccine222
-Better Diet223
-Psychotherapy224
-Specialist225
+Lasik192
+Physical Therapy193
+Antibiotics194
+Lasik195
+Antibiotics196
+Blood work197
+Rest198
+X-rays199
+Specialist200
+Vaccine201
+X-rays202
+Medicine203
+Follow up204
+Follow up205
+Allergy Medicine206
+Rehab207
+Vaccine208
+Rest209
+EKG210
+Lasik211
+Vaccine212
+Vaccine213
+Vaccine214
+Vaccine215
+Medicine216
+Follow up217
+Specialist218
+Counseling219
+Follow up220
+Rehab221
+EKG222
+Physical Therapy223
+Blood work224
+Physical Therapy225
 Counseling226
-Antibiotics227
-Rehab228
-Physical Therapy229
-X-rays230
-Allergy Medicine231
-Medicine232
-Lasik233
-Chemotherapy234
-Psychotherapy235
-Counseling236
-Specialist237
-Physical Therapy238
-Allergy Medicine239
-Counseling240
-Surgery241
+Surgery227
+Chemotherapy228
+Vaccine229
+Physical Therapy230
+Rehab231
+Lasik232
+Allergy Medicine233
+Counseling234
+Rest235
+Antibiotics236
+Chemotherapy237
+Counseling238
+Better Diet239
+Lasik240
+EKG241
 Medicine242
-Specialist243
-EKG244
-Blood work245
-Allergy Medicine246
-EKG247
-Vaccine248
-Allergy Medicine249
+Better Diet243
+Physical Therapy244
+Lasik245
+Medicine246
+Surgery247
+Blood work248
+Blood work249
 Better Diet250
-Follow up251
-Blood work252
-Better Diet253
-Lasik254
-Rest255
-Chemotherapy256
-Rest257
-Allergy Medicine258
-Follow up259
-X-rays260
-Physical Therapy261
-EKG262
-Lasik263
-Surgery264
-Surgery265
-Rehab266
-Surgery267
-Medicine268
-Prespription drug269
-Lasik270
-Follow up271
-Allergy Medicine272
-Physical Therapy273
-Rest274
-Specialist275
-Rest276
-Vaccine277
-Rest278
-Prespription drug279
-Blood work280
-Rest281
-Surgery282
-X-rays283
-Vaccine284
-Vaccine285
-Medicine286
-Antibiotics287
-Chemotherapy288
-Vaccine289
-EKG290
-X-rays291
-Physical Therapy292
+Antibiotics251
+Physical Therapy252
+Psychotherapy253
+Rest254
+Rehab255
+Surgery256
+Better Diet257
+Physical Therapy258
+X-rays259
+Medicine260
+Blood work261
+X-rays262
+Vaccine263
+Lasik264
+EKG265
+Follow up266
+Counseling267
+Chemotherapy268
+Counseling269
+Physical Therapy270
+Surgery271
+Physical Therapy272
+Rest273
+X-rays274
+Physical Therapy275
+X-rays276
+Medicine277
+Surgery278
+X-rays279
+EKG280
+Counseling281
+Follow up282
+Vaccine283
+Blood work284
+Blood work285
+EKG286
+Blood work287
+Blood work288
+Prespription drug289
+Specialist290
+EKG291
+Allergy Medicine292
 Vaccine293
-Chemotherapy294
-Allergy Medicine295
-Allergy Medicine296
-Surgery297
-Lasik298
-Rehab299
-Antibiotics300
-Better Diet301
-Specialist302
-Follow up303
-Counseling304
-EKG305
-Lasik306
-Vaccine307
-Lasik308
-Specialist309
-Allergy Medicine310
-Better Diet311
-Blood work312
+Physical Therapy294
+Medicine295
+Lasik296
+Lasik297
+Psychotherapy298
+Antibiotics299
+Lasik300
+X-rays301
+Allergy Medicine302
+Physical Therapy303
+Specialist304
+Rest305
+Rest306
+Surgery307
+Prespription drug308
+Prespription drug309
+Specialist310
+Lasik311
+Antibiotics312
 Psychotherapy313
-Surgery314
-Antibiotics315
-Specialist316
-Specialist317
-Chemotherapy318
-Surgery319
-Rest320
-Chemotherapy321
-Rest322
-Antibiotics323
-Medicine324
-Surgery325
-Counseling326
-Rehab327
-EKG328
-Counseling329
-Better Diet330
-Rehab331
-Better Diet332
-Follow up333
-Rest334
-X-rays335
-Medicine336
-Allergy Medicine337
-Rest338
-Physical Therapy339
-Rehab340
+Specialist314
+Surgery315
+Lasik316
+Rest317
+X-rays318
+Physical Therapy319
+Blood work320
+Specialist321
+Medicine322
+Medicine323
+Antibiotics324
+Rest325
+Follow up326
+Rest327
+Lasik328
+X-rays329
+EKG330
+Surgery331
+Counseling332
+Chemotherapy333
+Follow up334
+Vaccine335
+Follow up336
+Rest337
+Rehab338
+Lasik339
+Prespription drug340
 Physical Therapy341
-Prespription drug342
-Specialist343
-Lasik344
-Better Diet345
-Prespription drug346
-Follow up347
-Rehab348
-Rest349
-Medicine350
-Allergy Medicine351
-Rest352
+Specialist342
+Medicine343
+Chemotherapy344
+Physical Therapy345
+Blood work346
+X-rays347
+EKG348
+Medicine349
+Vaccine350
+Psychotherapy351
+Prespription drug352
 Prespription drug353
-Blood work354
-Rehab355
-Vaccine356
-Specialist357
-Blood work358
-Allergy Medicine359
-Counseling360
-Prespription drug361
-Counseling362
-Antibiotics363
-Rest364
-Rehab365
-Follow up366
+Allergy Medicine354
+Counseling355
+Better Diet356
+Psychotherapy357
+Specialist358
+Chemotherapy359
+Allergy Medicine360
+EKG361
+Rest362
+Chemotherapy363
+Follow up364
+Blood work365
+Counseling366
 Surgery367
-Medicine368
-Prespription drug369
-Counseling370
-Surgery371
-Counseling372
-Lasik373
-Follow up374
-X-rays375
-Lasik376
-Follow up377
-X-rays378
-Prespription drug379
-Physical Therapy380
-Blood work381
-Prespription drug382
-Medicine383
-Vaccine384
-Prespription drug385
-Counseling386
-EKG387
-EKG388
-Vaccine389
+Follow up368
+Rest369
+Lasik370
+Follow up371
+Medicine372
+EKG373
+Counseling374
+Psychotherapy375
+Better Diet376
+Vaccine377
+Vaccine378
+Specialist379
+Blood work380
+Chemotherapy381
+Counseling382
+Allergy Medicine383
+Surgery384
+Blood work385
+Medicine386
+Counseling387
+Allergy Medicine388
+Blood work389
 Chemotherapy390
-Specialist391
-Follow up392
-Chemotherapy393
-Medicine394
-Prespription drug395
-Better Diet396
-Specialist397
-Counseling398
-Specialist399
-Chemotherapy400
-Lasik401
-Better Diet402
-Prespription drug403
-Blood work404
-Vaccine405
-Prespription drug406
-EKG407
-Better Diet408
-Counseling409
-Allergy Medicine410
-Rehab411
+Blood work391
+Chemotherapy392
+Follow up393
+Chemotherapy394
+Counseling395
+Rehab396
+Counseling397
+Blood work398
+Rest399
+Psychotherapy400
+Rest401
+Physical Therapy402
+Rehab403
+Rest404
+Surgery405
+Medicine406
+Rest407
+Counseling408
+Specialist409
+Counseling410
+Surgery411
 Chemotherapy412
-Physical Therapy413
-Psychotherapy414
-Chemotherapy415
-Chemotherapy416
-Counseling417
-Allergy Medicine418
-Better Diet419
-Counseling420
-Follow up421
-Physical Therapy422
-Follow up423
-Allergy Medicine424
-Allergy Medicine425
-Physical Therapy426
-X-rays427
-Allergy Medicine428
-Vaccine429
-Surgery430
-Chemotherapy431
-Prespription drug432
+Counseling413
+Physical Therapy414
+Allergy Medicine415
+Specialist416
+X-rays417
+Medicine418
+Rehab419
+Better Diet420
+Chemotherapy421
+Prespription drug422
+Prespription drug423
+EKG424
+Physical Therapy425
+Prespription drug426
+EKG427
+Lasik428
+Rest429
+EKG430
+Lasik431
+Medicine432
 Lasik433
-Antibiotics434
-Vaccine435
-Counseling436
-EKG437
-Chemotherapy438
-X-rays439
-Follow up440
-Surgery441
-Vaccine442
-Psychotherapy443
-Physical Therapy444
-Blood work445
-Psychotherapy446
-Surgery447
-Counseling448
-Blood work449
+Medicine434
+Psychotherapy435
+EKG436
+Counseling437
+EKG438
+Rehab439
+Vaccine440
+Follow up441
+Allergy Medicine442
+X-rays443
+Blood work444
+Counseling445
+Medicine446
+Prespription drug447
+EKG448
+Allergy Medicine449
 Lasik450
-Follow up451
-Counseling452
-Rehab453
-Counseling454
-Lasik455
-Antibiotics456
-Rehab457
-Vaccine458
-Medicine459
-Medicine460
+Blood work451
+Medicine452
+Chemotherapy453
+Allergy Medicine454
+Vaccine455
+Blood work456
+Prespription drug457
+EKG458
+Physical Therapy459
+Vaccine460
 Medicine461
-Better Diet462
-EKG463
-Follow up464
-Counseling465
-Follow up466
-Physical Therapy467
-Counseling468
-Medicine469
-Chemotherapy470
-Better Diet471
-Follow up472
-Psychotherapy473
-Chemotherapy474
-Allergy Medicine475
-Rehab476
-Allergy Medicine477
-Rehab478
-Better Diet479
-Medicine480
-Psychotherapy481
-EKG482
-Physical Therapy483
-Counseling484
-EKG485
-Rehab486
-Antibiotics487
-Prespription drug488
-Blood work489
-Follow up490
-Follow up491
-Counseling492
-Antibiotics493
-Rest494
-Antibiotics495
-Medicine496
-Rehab497
-Rest498
-Rest499
-Vaccine500
-Psychotherapy501
-Better Diet502
-Chemotherapy503
-Blood work504
-Counseling505
-Rest506
-Physical Therapy507
-Chemotherapy508
-Follow up509
-Allergy Medicine510
-Follow up511
-Rehab512
-X-rays513
-Rehab514
-Psychotherapy515
-Prespription drug516
-Blood work517
-X-rays518
-Follow up519
-Surgery520
-Psychotherapy521
-Psychotherapy522
+Counseling462
+Psychotherapy463
+Rest464
+Specialist465
+Better Diet466
+Psychotherapy467
+Physical Therapy468
+Surgery469
+X-rays470
+Counseling471
+X-rays472
+Rehab473
+Counseling474
+EKG475
+Lasik476
+Physical Therapy477
+X-rays478
+Prespription drug479
+Rehab480
+Rehab481
+Rehab482
+EKG483
+Physical Therapy484
+Blood work485
+Rest486
+Rehab487
+Follow up488
+Antibiotics489
+Vaccine490
+Rest491
+Vaccine492
+Prespription drug493
+Psychotherapy494
+Physical Therapy495
+Surgery496
+Specialist497
+Lasik498
+Allergy Medicine499
+X-rays500
+Specialist501
+Medicine502
+Blood work503
+Lasik504
+Prespription drug505
+Better Diet506
+Counseling507
+Antibiotics508
+Allergy Medicine509
+Medicine510
+Better Diet511
+Chemotherapy512
+Rest513
+Prespription drug514
+Blood work515
+Physical Therapy516
+Better Diet517
+Antibiotics518
+EKG519
+EKG520
+EKG521
+Lasik522
 EKG523
-Medicine524
-Vaccine525
-Allergy Medicine526
-Counseling527
-Chemotherapy528
-Vaccine529
-Surgery530
+Counseling524
+Medicine525
+Rehab526
+Chemotherapy527
+Specialist528
+Surgery529
+Chemotherapy530
 Counseling531
-Physical Therapy532
-Prespription drug533
-Antibiotics534
-Rest535
-Specialist536
-Antibiotics537
-X-rays538
+Chemotherapy532
+Chemotherapy533
+Rest534
+Psychotherapy535
+Better Diet536
+Vaccine537
+Better Diet538
 Vaccine539
-Lasik540
-Rest541
-Allergy Medicine542
-Medicine543
-Follow up544
+Better Diet540
+X-rays541
+Chemotherapy542
+Lasik543
+Specialist544
 Follow up545
-Lasik546
-Rehab547
-Specialist548
-Physical Therapy549
-Follow up550
-Lasik551
+X-rays546
+Rest547
+Rest548
+Psychotherapy549
+Better Diet550
+Antibiotics551
 Counseling552
-Lasik553
-Lasik554
-Counseling555
-Surgery556
-Medicine557
-Surgery558
-Better Diet559
-Rest560
-Allergy Medicine561
-Follow up562
-Surgery563
-Antibiotics564
-Prespription drug565
-Rest566
-Specialist567
-Allergy Medicine568
-Physical Therapy569
-Rehab570
-Counseling571
-Specialist572
-Blood work573
-Better Diet574
-X-rays575
-Vaccine576
+Psychotherapy553
+Follow up554
+Rest555
+Medicine556
+Prespription drug557
+Chemotherapy558
+Physical Therapy559
+Counseling560
+Medicine561
+Counseling562
+Blood work563
+Medicine564
+Surgery565
+Vaccine566
+Rest567
+Prespription drug568
+Specialist569
+Rest570
+Surgery571
+Chemotherapy572
+Counseling573
+Rehab574
+Vaccine575
+Counseling576
 Rest577
 Blood work578
-Antibiotics579
-Counseling580
-Psychotherapy581
-Allergy Medicine582
+Chemotherapy579
+Medicine580
+Blood work581
+Psychotherapy582
 Rest583
-Better Diet584
-Prespription drug585
-Blood work586
-Surgery587
-Psychotherapy588
-Rest589
-Better Diet590
-Allergy Medicine591
-EKG592
-Vaccine593
-Psychotherapy594
-Better Diet595
-Allergy Medicine596
-Follow up597
-Medicine598
-Allergy Medicine599
-Chemotherapy600
-Lasik601
-Allergy Medicine602
-Surgery603
-Psychotherapy604
-Better Diet605
-X-rays606
-Specialist607
-Blood work608
-Prespription drug609
-Antibiotics610
-Lasik611
-Physical Therapy612
-Lasik613
+Psychotherapy584
+X-rays585
+Prespription drug586
+Vaccine587
+Lasik588
+EKG589
+Surgery590
+Better Diet591
+Physical Therapy592
+Counseling593
+Medicine594
+Blood work595
+Chemotherapy596
+Surgery597
+X-rays598
+Medicine599
+Rehab600
+Vaccine601
+Medicine602
+Better Diet603
+Surgery604
+Physical Therapy605
+Follow up606
+Follow up607
+Specialist608
+Better Diet609
+Chemotherapy610
+Antibiotics611
+Allergy Medicine612
+Prespription drug613
 Chemotherapy614
 Antibiotics615
-Rehab616
-Rehab617
-Rehab618
-Vaccine619
-X-rays620
-Better Diet621
-Psychotherapy622
+Vaccine616
+Better Diet617
+Psychotherapy618
+Allergy Medicine619
+Vaccine620
+X-rays621
+Rest622
 Surgery623
-Allergy Medicine624
-Vaccine625
-Counseling626
-Rest627
-Lasik628
-X-rays629
-Chemotherapy630
-Medicine631
-Lasik632
-Counseling633
-Lasik634
-Rest635
-Allergy Medicine636
-Psychotherapy637
-Counseling638
-Rest639
-Specialist640
-Follow up641
-Rehab642
-Allergy Medicine643
-Specialist644
-Antibiotics645
-X-rays646
-X-rays647
-Vaccine648
-Prespription drug649
-Follow up650
-Chemotherapy651
-Rehab652
-Surgery653
-Surgery654
-Lasik655
-Psychotherapy656
+Rehab624
+Physical Therapy625
+Antibiotics626
+Surgery627
+Medicine628
+Counseling629
+Specialist630
+X-rays631
+Prespription drug632
+EKG633
+EKG634
+Lasik635
+Rest636
+Lasik637
+Better Diet638
+EKG639
+X-rays640
+Allergy Medicine641
+Chemotherapy642
+Surgery643
+Lasik644
+Counseling645
+Specialist646
+EKG647
+Rest648
+Rest649
+Medicine650
+Better Diet651
+X-rays652
+Better Diet653
+Psychotherapy654
+Vaccine655
+Blood work656
 Counseling657
-Counseling658
-Chemotherapy659
-Psychotherapy660
-Specialist661
+Surgery658
+EKG659
+Specialist660
+Psychotherapy661
 X-rays662
-Lasik663
-EKG664
-Allergy Medicine665
-Rehab666
-Lasik667
-Rehab668
-Allergy Medicine669
-Prespription drug670
-Rehab671
-Prespription drug672
-Chemotherapy673
-Allergy Medicine674
-Allergy Medicine675
-Vaccine676
-Counseling677
-X-rays678
-X-rays679
-Surgery680
-Allergy Medicine681
-Medicine682
-Chemotherapy683
-Prespription drug684
-Prespription drug685
-Counseling686
-Antibiotics687
-Allergy Medicine688
-Allergy Medicine689
-Allergy Medicine690
-Counseling691
-Rehab692
+Blood work663
+X-rays664
+Surgery665
+EKG666
+Antibiotics667
+EKG668
+Medicine669
+Better Diet670
+Blood work671
+Lasik672
+Allergy Medicine673
+Follow up674
+Surgery675
+Rest676
+Rest677
+Specialist678
+Lasik679
+X-rays680
+Rest681
+Antibiotics682
+X-rays683
+Antibiotics684
+Specialist685
+Medicine686
+Vaccine687
+Physical Therapy688
+Vaccine689
+Medicine690
+Physical Therapy691
+Physical Therapy692
 Counseling693
-Psychotherapy694
-Better Diet695
-Rehab696
-Allergy Medicine697
-Prespription drug698
-Rehab699
-Medicine700
-Rehab701
-EKG702
-Lasik703
-Allergy Medicine704
-Antibiotics705
-Surgery706
-Vaccine707
-Blood work708
-Psychotherapy709
-Rehab710
-Follow up711
-Chemotherapy712
-Better Diet713
-Medicine714
-Chemotherapy715
-Antibiotics716
-Surgery717
+Better Diet694
+Follow up695
+Follow up696
+Blood work697
+Vaccine698
+Lasik699
+X-rays700
+Physical Therapy701
+Prespription drug702
+Vaccine703
+EKG704
+Allergy Medicine705
+Vaccine706
+Allergy Medicine707
+Medicine708
+Lasik709
+Psychotherapy710
+X-rays711
+Rest712
+Rehab713
+Rehab714
+Physical Therapy715
+Specialist716
+EKG717
 Medicine718
-Rest719
-Counseling720
-Rehab721
-X-rays722
-X-rays723
-Antibiotics724
-Better Diet725
-Medicine726
-Antibiotics727
-Blood work728
-Psychotherapy729
-Psychotherapy730
+Chemotherapy719
+Follow up720
+Physical Therapy721
+Allergy Medicine722
+Blood work723
+Physical Therapy724
+Vaccine725
+Prespription drug726
+Specialist727
+Rehab728
+EKG729
+Rehab730
 Better Diet731
-Counseling732
-Surgery733
-Counseling734
-Vaccine735
-Antibiotics736
-Surgery737
-Psychotherapy738
-Rehab739
-X-rays740
-Allergy Medicine741
-Surgery742
-Follow up743
-Vaccine744
+Physical Therapy732
+Medicine733
+Better Diet734
+Blood work735
+Rest736
+Psychotherapy737
+Better Diet738
+Lasik739
+Specialist740
+Follow up741
+Prespription drug742
+Physical Therapy743
+Blood work744
 Prespription drug745
 Allergy Medicine746
-Psychotherapy747
+Medicine747
 Chemotherapy748
-Vaccine749
+Rehab749
