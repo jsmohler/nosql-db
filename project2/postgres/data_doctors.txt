@@ -1,100 +1,100 @@
-1, Dr. Micah, Jordan
-2, Dr. Jake, Green
-3, Dr. Molly, Harrilchak
-4, Dr. Samantha, Boettcher
-5, Dr. Ben, Norris
-6, Dr. Rosie, Jones
-7, Dr. Abby, Kummings
-8, Dr. Jordan, Elens
-9, Dr. Melanie, Walsh
-10, Dr. Viv, McElroy
-11, Dr. Kylee, Boettcher
-12, Dr. Ben, Lourie
-13, Dr. Thomas, Gee
-14, Dr. Ben, Zenthoefer
-15, Dr. Ryan, Ferguson
-16, Dr. Jake, Green
-17, Dr. Lorna, Lourie
-18, Dr. Tom, Jordan
-19, Dr. Axel, Sarmey
-20, Dr. Dan, Jordan
-21, Dr. Tom, Obama
-22, Dr. Jordan, Parkintens
-23, Dr. Gerry, Parkintens
-24, Dr. Rosie, Boettcher
-25, Dr. Charlie, Norris
-26, Dr. Amanda, Obama
-27, Dr. Sam, Jordan
-28, Dr. Axel, Green
-29, Dr. Meredith, Clermont
-30, Dr. Kylee, Cipoletti
-31, Dr. Mark, David
-32, Dr. Samantha, Kummings
-33, Dr. Jake, Ferguson
-34, Dr. Alice, Fernalld
-35, Dr. Gerry, Sarmey
-36, Dr. Kylie, Gee
-37, Dr. Jake, David
-38, Dr. Josh, Ferguson
-39, Dr. Mark, Zenthoefer
-40, Dr. Molly, Harrilchak
-41, Dr. James, McElroy
-42, Dr. Ben, Walsh
-43, Dr. Kelly, McCallister
-44, Dr. Lorna, Wellings
-45, Dr. Colman, Kummings
-46, Dr. Josh, Cook
-47, Dr. Cooper, Green
-48, Dr. Jordan, Jordan
-49, Dr. Charlie, Gee
-50, Dr. Kelly, Boettcher
-51, Dr. Candace, Kummings
-52, Dr. Kelly, Cipoletti
-53, Dr. Mila, Boettcher
-54, Dr. Dan, Norris
-55, Dr. Ben, Fernalld
-56, Dr. Lorna, McCallister
-57, Dr. Kylie, Armstrong
-58, Dr. Amanda, Fernalld
-59, Dr. Jory, McElroy
-60, Dr. Ryan, Walsh
-61, Dr. Jordan, Gee
-62, Dr. James, Sarmey
-63, Dr. Meredith, Smith
-64, Dr. Molly, Zenthoefer
-65, Dr. Josh, Gee
-66, Dr. Abby, Gee
-67, Dr. Tom, Kummings
-68, Dr. Thomas, Norris
-69, Dr. Candace, Clermont
-70, Dr. Samantha, Jordan
-71, Dr. Jordan, Kummings
-72, Dr. Emory, Obama
-73, Dr. Ben, Clermont
-74, Dr. Samantha, Smith
-75, Dr. Candace, David
-76, Dr. Ryan, Boettcher
-77, Dr. Emory, Obama
-78, Dr. Cedric, McVaney
-79, Dr. Abby, Green
-80, Dr. Caroline, Jones
-81, Dr. Gerry, Sarmey
-82, Dr. Kiana, McElroy
-83, Dr. Mila, Smith
-84, Dr. Cedric, Wellings
-85, Dr. Kelly, Parkintens
-86, Dr. Kiana, Jones
-87, Dr. Steve, McVaney
-88, Dr. Cooper, Smith
-89, Dr. Rosie, Cipoletti
-90, Dr. Melanie, Boettcher
-91, Dr. Ben, Boettcher
-92, Dr. Rosie, Cipoletti
-93, Dr. Viv, McElroy
-94, Dr. Gerry, Clermont
-95, Dr. Melanie, Gee
-96, Dr. Josh, Gee
-97, Dr. Melanie, Harrilchak
-98, Dr. Tom, Jones
-99, Dr. Spencer, Smith
-100, Dr. Jory, Zenthoefer
+1,Dr. Meredith,Smith
+2,Dr. Ryan,Wellings
+3,Dr. Crystal,Norris
+4,Dr. Drew,Obama
+5,Dr. Carole,Fernalld
+6,Dr. Colleen,Lourie
+7,Dr. Abby,Green
+8,Dr. James,Parkintens
+9,Dr. Ryan,Elens
+10,Dr. Viv,Kummings
+11,Dr. Brian,Zenthoefer
+12,Dr. Sam,Elens
+13,Dr. Colman,Walsh
+14,Dr. Steve,Kummings
+15,Dr. Axel,Parkintens
+16,Dr. Kiana,McVaney
+17,Dr. Abby,Jordan
+18,Dr. Molly,Norris
+19,Dr. Molly,Norris
+20,Dr. Gerry,Clermont
+21,Dr. Meredith,Armstrong
+22,Dr. Abby,Obama
+23,Dr. Josh,Cipoletti
+24,Dr. Drew,Smith
+25,Dr. Molly,Armstrong
+26,Dr. Melanie,Jordan
+27,Dr. Carole,Green
+28,Dr. Kiana,Armstrong
+29,Dr. Meredith,Ferguson
+30,Dr. Rosie,Cook
+31,Dr. Alice,Boettcher
+32,Dr. Charlie,Lourie
+33,Dr. Sam,Jordan
+34,Dr. Carole,McCallister
+35,Dr. Steve,Norris
+36,Dr. Charlie,Parkintens
+37,Dr. Kelly,Kummings
+38,Dr. Steve,Jordan
+39,Dr. Carole,Armstrong
+40,Dr. Ben,Ferguson
+41,Dr. Cooper,Zenthoefer
+42,Dr. Ben,Jordan
+43,Dr. Micah,Sarmey
+44,Dr. Josh,Fernalld
+45,Dr. Kylee,Elens
+46,Dr. Drew,Elens
+47,Dr. Sage,Zenthoefer
+48,Dr. Spencer,Green
+49,Dr. Jake,Lourie
+50,Dr. Kelly,Norris
+51,Dr. Tom,Alamanster
+52,Dr. Jacob,McVaney
+53,Dr. Josh,McCallister
+54,Dr. Jory,Ferguson
+55,Dr. Brian,Alamanster
+56,Dr. Cooper,Jones
+57,Dr. Abby,McVaney
+58,Dr. Jory,Walsh
+59,Dr. Kylee,Sarmey
+60,Dr. Ryan,Cook
+61,Dr. Rosie,Armstrong
+62,Dr. Spencer,McElroy
+63,Dr. Kylie,Lourie
+64,Dr. Amanda,Boettcher
+65,Dr. Mark,Walsh
+66,Dr. Charlie,Clermont
+67,Dr. Colman,Jordan
+68,Dr. Emory,Clermont
+69,Dr. Melanie,Clermont
+70,Dr. Jake,Alamanster
+71,Dr. Sage,Fernalld
+72,Dr. Abby,Cipoletti
+73,Dr. James,Cook
+74,Dr. Viv,Zenthoefer
+75,Dr. Kylee,Elens
+76,Dr. Gerry,Boettcher
+77,Dr. Gerry,Clermont
+78,Dr. Colleen,Jones
+79,Dr. Molly,Elens
+80,Dr. Brian,Clermont
+81,Dr. Caroline,Jordan
+82,Dr. Steve,Fernalld
+83,Dr. Amanda,Zenthoefer
+84,Dr. Meredith,Elens
+85,Dr. Charlie,Fernalld
+86,Dr. Jacob,Sarmey
+87,Dr. Jory,McVaney
+88,Dr. James,McVaney
+89,Dr. Ryan,Wellings
+90,Dr. Josh,Parkintens
+91,Dr. Cooper,Armstrong
+92,Dr. Kelly,Jordan
+93,Dr. Sam,Gee
+94,Dr. Meredith,David
+95,Dr. Axel,Jordan
+96,Dr. Brian,Obama
+97,Dr. Drew,Walsh
+98,Dr. Ben,Jones
+99,Dr. Crystal,Smith
+100,Dr. Charlie,Obama

@@ -48,7 +48,7 @@ public class DataGenerator {
         fname = "Dr. " + names[generator.nextInt(names.length)];// First name
         lname = lnames[generator.nextInt(lnames.length)] ;
 
-	    tuple = dID + ", " + fname + ", " + lname + "\n" ;
+	    tuple = dID + "," + fname + "," + lname + "\n" ;
 
 	    doctors[i-1] = i;
 	    if (i < (.35 * numDoctors)) {
@@ -75,7 +75,7 @@ public class DataGenerator {
               fname = names[generator.nextInt(names.length)];// First name
               lname = lnames[generator.nextInt(lnames.length)] ;
 
-      	    tuple = pID + ", " + fname + ", " + lname + "\n";
+      	    tuple = pID + "," + fname + "," + lname + "\n";
       	    patients[i-1] = i;
 
               bw.write(tuple) ;
