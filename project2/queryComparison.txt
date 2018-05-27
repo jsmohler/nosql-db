@@ -1,0 +1,25 @@
+Yes, in Postgre it is possible to do a single query and get a patient's information, their doctor(s), illness(es), and treatment(s).  
+
+//Postgre queries:
+SELECT * FROM patients, doctors, pdmap, pitmap
+WHERE patients.patientID = '124' 
+AND pdmap.patientID = '124'
+AND pitmap.patientID = '124'
+AND doctors.doctorID = pdmap.doctorID;
+
+SELECT * FROM patients, doctors, pdmap, pitmap
+WHERE patients.patientID = '222' 
+AND pdmap.patientID = '222'
+AND pitmap.patientID = '222'
+AND doctors.doctorID = pdmap.doctorID;
+
+SELECT * FROM patients, doctors, pdmap, pitmap
+WHERE patients.fname = 'Caroline'
+AND patients.lname = 'Fernalld' 
+AND pdmap.patientID = patients.patientID
+AND pitmap.patientID = patients.patientID
+AND doctors.doctorID = pdmap.doctorID;
+
+
+
+//Neo4j queries:

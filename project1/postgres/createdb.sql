@@ -40,8 +40,4 @@ CREATE TABLE orders (
     rec_name varchar(30) REFERENCES recipes NOT NULL 
 );
 
-\include loadUsers.sql
-\include loadInventory.sql
-\include loadRecipes.sql
-\include loadMap.sql
-\include takeOrder.sql
+\include loadData.sql

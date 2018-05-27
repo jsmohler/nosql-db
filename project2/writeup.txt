@@ -1,0 +1,26 @@
+Victoria Fernalld & Jordan Mohler
+NoSQL Databases
+Project 2 Writeup
+
+
+	The design process for Postgre went very well.  Especially after completing Project 1 and builidng out a schema structure for mulitple many-to-may relationships, constructing a similar schema design for the hospital system was quite easy.  I chose to represent relationships in separate tables that essentially "mapped" each relationship (whether between doctor and patient, or patient, illness, and treatment).  While this design is not quite as natural as Neo4j allows for, the mapping tables were very easy to query in a logical way.  Additionally, since Postgre supports SQL, I found database creation, data loading, and querying to be incredibly simple and straightforward.  Additionally, given the guarantee of atomicity with Postgre I felt very confident in the accuracy of all data imports.  Finally, I felt that Postgre very efficiently handled the significant number of records that I needed to insert, store, and query.  Additionally, Postgre so deftly supports all database functions through the \include <document> command.  I was able to drop, re-create, and load data into the database in under a minute as I just loaded a single SQL file!  Had I needed to "prototype" my database a bit more with shifting design requirements, this would not have been a problem.  
+
+[Neo4j: What went well?]
+
+
+	Quite honestly, I did not experience any major inconveniences in implementing the hospital database with Postgre.  One consideration, however, would be in a scenario in which this design shifted from "Smalltown Hospital" to a larger scale system with significantly more records to store.  The design I implemented using "mapping tables" to represent relationships is certainly not the most storage / space effecient option.  If storage space were a limitation in a bigger scale hospital system, Postgre might not be the best option considering the limitations in representing many-to-many relationships.  
+
+[Neo4j: What didn't go well?]
+
+
+	One of the primary features and conveniences of Postgre continues to be its support of SQL.  SQL is such a straightforward syntax and logical query language that provides an immense breadth of query options.  After having worked with SQL a handful of times, crafting a single query to get a patient's personal information as well as doctor, illness, and treatment details was a breeze and took less than two minutes! Secondarily, the foundation of set theory in Postgre allows for incredible flexibility in joining, unioning, and manipulating data -- all as built in features of this relational database.  
+
+[Neo4j: Unique features]
+
+
+
+
+
+
+
+
