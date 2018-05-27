@@ -1,9 +1,36 @@
 Queries:
 
-
-
-
+(1) 	MATCH (p:Patient {name:"Patient10"})-[r]->(m) 
+	RETURN p as patient, type(r) as relationship, m.name as name
+(2)	MATCH (p:Patient {name:"Patient10"})-[r:sees]->(d:Doctor)
+	RETURN p as patient, type(r) as relationship, d.name as doctor
+(3)	MATCH (p:Patient {name:"Patient10"})-[r:has]->(i:Illness)
+	RETURN p as patient, type(r) as relationship, i.name as illness
+(4) 	MATCH (p:Patient {name:"Patient10"})-[r:receives]->(t:Treatment)
+	RETURN p as patient, type(r) as relationship, t.name as treatment
 
 Is it possible to return all of this information in one query, or are multiple requires required?
+
+Yes, it is possible. You can return all the doctors, illnesses, and treatments for a single patient by using the first query listed. For example, that query returns:
+
+╒════════════════════╤══════════════╤══════════════╕
+│"patient"           │"relationship"│"name"        │
+╞════════════════════╪══════════════╪══════════════╡
+│{"name":"Patient10"}│"receives"    │"Treatment554"│
+├────────────────────┼──────────────┼──────────────┤
+│{"name":"Patient10"}│"receives"    │"Treatment149"│
+├────────────────────┼──────────────┼──────────────┤
+│{"name":"Patient10"}│"receives"    │"Treatment7"  │
+├────────────────────┼──────────────┼──────────────┤
+│{"name":"Patient10"}│"receives"    │"Treatment44" │
+├────────────────────┼──────────────┼──────────────┤
+│{"name":"Patient10"}│"receives"    │"Treatment64" │
+├────────────────────┼──────────────┼──────────────┤
+│{"name":"Patient10"}│"has"         │"Illness945"  │
+├────────────────────┼──────────────┼──────────────┤
+│{"name":"Patient10"}│"sees"        │"Doctor83"    │
+└────────────────────┴──────────────┴──────────────┘
+
+It is important to note that the queries above use Patient10 as an example, but this could be substituted for any patient name. Then the latter three queries return a patient's doctors, a patient's illnesses, and a patient's treatments respectively. However, what is not possible is to return the doctors, treatments, and illnesses for all patients at a single time. At most, 1000 rows can be displayed at once from the queries "MATCH (n) RETURN n" and "MATCH (p:Patient)-[r]->(m) RETURN p, type(r), m".
 
 

@@ -1,0 +1,5 @@
+cat loadDoctors.cql | neo4j-shell > /dev/null
+cat loadTreatments.cql | neo4j-shell > /dev/null
+cat loadIllnesses.cql | neo4j-shell > /dev/null
+cat loadPatients.cql | neo4j-shell > /dev/null
+cat relations.cql | neo4j-shell > /dev/null

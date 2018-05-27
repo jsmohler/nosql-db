@@ -177,7 +177,7 @@ class DataCreator {
               sb.append("(t:Treatment {name: \"Treatment");
               sb.append(r.nextInt(numTreats)+1);
               sb.append("\"})\n");
-              sb.append("CREATE (p)-[r:receivesg]->(t);\n");
+              sb.append("CREATE (p)-[r:receives]->(t);\n");
             }
 
           } else {
@@ -208,6 +208,7 @@ class DataCreator {
         }
         bw.write(sb.toString());
       }
+      bw.close();
     } catch (IOException e) {
       e.printStackTrace() ;
     }
