@@ -2056,8 +2056,3 @@ Answer: Doctor 71 with 423 unique illnesses being treated
 │"Doctor71"│423                    │
 └──────────┴───────────────────────┘
 
-(5) What illness is being treated with the largest number of unique treatments?
-
-Query: 
-Answer:
-

@@ -1,0 +1,21 @@
+This database has the following structure:
+
+NODE STRUCTURE
+
+(1) Doctor nodes are created with both a name and a is_patient attribute. The name attribute is a unique field that identifies the doctor and the is_patient attribute has a 35% chance of being "yes". If the is_patient field is set to "yes", then the doctor will meet the same relationship standards as patients by being included when relationships are made, but with the stipulation that they cannot have a relationship with themselves (cannot be their own doctor). 
+
+(2) Patient nodes are each given only a name attribute. Each patient node will have at least one relationship with a doctor, which is randomly chosen. The patient may have up to five doctors, with the number of their doctors also being randomly selected. The patient may also have a relationship with at most 3 illnesses. The number of illnesses a patient has is also randomly chosed. If a patient has an illness then they are assigned between 1 and 5 treatments. 
+
+(3) Illness nodes are each given only a name attribute. 
+
+(4) Treatment nodeds are each given only a name attribute. 
+
+RELATIONSHIP STRUCTURE
+
+There are three types of relationships, all of which stems from a Patient (or Doctor if that Doctor is also a Patient) node.
+
+(1) A Patient/Doctor sees a Doctor. 
+
+(2) A Patient/Doctor has an Illness.
+
+(3) A Patient/Doctor receives a Treatment.
