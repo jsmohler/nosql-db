@@ -1,3 +1,4 @@
+CREATE CONSTRAINT ON (p:Patient) ASSERT p.name IS UNIQUE;
 CREATE (p:Patient {name: "Patient1"});
 CREATE (p:Patient {name: "Patient2"});
 CREATE (p:Patient {name: "Patient3"});

@@ -1,3 +1,4 @@
+CREATE CONSTRAINT ON (i:Illness) ASSERT i.name IS UNIQUE;
 CREATE (i:Illness {name: "Illness1"});
 CREATE (i:Illness {name: "Illness2"});
 CREATE (i:Illness {name: "Illness3"});

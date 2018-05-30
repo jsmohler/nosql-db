@@ -10,6 +10,10 @@ NODE STRUCTURE
 
 (4) Treatment nodeds are each given only a name attribute. 
 
+All nodes are given a constraint to ensure their names are unique using the following syntax:
+
+	CREATE CONSTRAINT ON (n:Node) ASSERT n.name IS UNIQUE;
+
 RELATIONSHIP STRUCTURE
 
 There are three types of relationships, all of which stems from a Patient (or Doctor if that Doctor is also a Patient) node.

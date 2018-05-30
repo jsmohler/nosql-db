@@ -42,25 +42,25 @@ Yes, it is possible. You can return all the doctors, illnesses, and treatments f
 ╒════════════════════╤══════════════╤══════════════╕
 │"patient"           │"relationship"│"name"        │
 ╞════════════════════╪══════════════╪══════════════╡
-│{"name":"Patient10"}│"receives"    │"Treatment554"│
+│{"name":"Patient10"}│"receives"    │"Treatment156"│
 ├────────────────────┼──────────────┼──────────────┤
-│{"name":"Patient10"}│"receives"    │"Treatment149"│
+│{"name":"Patient10"}│"has"         │"Illness871"  │
 ├────────────────────┼──────────────┼──────────────┤
-│{"name":"Patient10"}│"receives"    │"Treatment7"  │
+│{"name":"Patient10"}│"has"         │"Illness387"  │
 ├────────────────────┼──────────────┼──────────────┤
-│{"name":"Patient10"}│"receives"    │"Treatment44" │
+│{"name":"Patient10"}│"has"         │"Illness475"  │
 ├────────────────────┼──────────────┼──────────────┤
-│{"name":"Patient10"}│"receives"    │"Treatment64" │
+│{"name":"Patient10"}│"sees"        │"Doctor85"    │
 ├────────────────────┼──────────────┼──────────────┤
-│{"name":"Patient10"}│"has"         │"Illness945"  │
+│{"name":"Patient10"}│"sees"        │"Doctor58"    │
 ├────────────────────┼──────────────┼──────────────┤
-│{"name":"Patient10"}│"sees"        │"Doctor83"    │
+│{"name":"Patient10"}│"sees"        │"Doctor10"    │
 └────────────────────┴──────────────┴──────────────┘
 
-It is important to note that the queries above use Patient10 as an example, but this could be substituted for any patient name. Alternatively, to get doctors who are also patients and all their relationships, the following query may be used:
+It is important to note that the queries above use Patient10 as an example, but this could be substituted for any patient name. Alternatively, to get a doctor who is also a patient and all their relationships, the following query may be used:
 
 	MATCH (d:Doctor {is_patient: "yes"})-[r]->(m) 
-	RETURN d as patient, type(r) as relationship, m.name as name
+	RETURN d.name as patient, type(r) as relationship, m.name as name
 
 Then the latter three queries return a patient's doctors, a patient's illnesses, and a patient's treatments respectively. However, what is not possible is to return the doctors, treatments, and illnesses for all patients at a single time. At most, 1000 rows can be displayed at once from the queries "MATCH (n) RETURN n" and "MATCH (p:Patient)-[r]->(m) RETURN p, type(r), m".
 

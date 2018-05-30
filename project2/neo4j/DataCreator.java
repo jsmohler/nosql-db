@@ -55,6 +55,9 @@ class DataCreator {
 
 
       //Build 100 doctors
+      //ensure doctor names are unique with CREATE CONSTRAINT ON (d:Doctor) ASSERT d.name IS UNIQUE;
+      bwDocs.write("CREATE CONSTRAINT ON (d:Doctor) ASSERT d.name IS UNIQUE;\n");
+
       //CREATE (d:Doctor {name:"Fake Name", is_patient: "yes"})
       for (int i = 0; i < numDocs; i++) {
         StringBuilder sb = new StringBuilder();
@@ -72,6 +75,9 @@ class DataCreator {
       bwDocs.close();
 
       //Build 10000 patients
+      //ensure patient names are unique with CREATE CONSTRAINT ON (p:Patient) ASSERT p.name IS UNIQUE;
+      bwPats.write("CREATE CONSTRAINT ON (p:Patient) ASSERT p.name IS UNIQUE;\n");
+
       //CREATE (p:Patient {name:"Fake Name"})
       for (int i = 0; i < numPats; i++) {
         StringBuilder sb = new StringBuilder();
@@ -83,6 +89,9 @@ class DataCreator {
       bwPats.close();
 
       //Build 1000 illnesses
+      //ensure illness names are unique with CREATE CONSTRAINT ON (i:Illness) ASSERT i.name IS UNIQUE;
+      bwIll.write("CREATE CONSTRAINT ON (i:Illness) ASSERT i.name IS UNIQUE;\n");
+
       //CREATE (i:Illness {name:"Fake Name"})
       for (int i = 0; i < numIlls; i++) {
         StringBuilder sb = new StringBuilder();
@@ -94,6 +103,9 @@ class DataCreator {
       bwIll.close();
 
       //Build 750 Treatments
+      //ensure treatment names are unique with CREATE CONSTRAINT ON (t:Treatment) ASSERT t.name IS UNIQUE;
+      bw.write("CREATE CONSTRAINT ON (t:Treatment) ASSERT t.name IS UNIQUE;\n");
+
       //CREATE (t:Treatment {name:"Fake Name"})
       for (int i = 0; i < numTreats; i++) {
         StringBuilder sb = new StringBuilder();
